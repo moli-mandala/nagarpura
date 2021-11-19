@@ -1,0 +1,123 @@
+STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
+5,56,Uttarkashi,279,Mori,40221,Halywari,"Halywari,Mori,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,279,Mori,40244,Liwari,"Liwari,Mori,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,280,Rajgarhi,40309,Jeshtwari,"Jeshtwari,Rajgarhi,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,280,Rajgarhi,40394,Kwari,"Kwari,Rajgarhi,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,280,Rajgarhi,40463,Setwari,"Setwari,Rajgarhi,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,281,Dunda,40521,Bhatwari,"Bhatwari,Dunda,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40635,Jestwari,"Jestwari,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,283,Bhatwari,0,Bhatwari,"Bhatwari,Bhatwari,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,283,Bhatwari,40727,Bhatwari,"Bhatwari,Bhatwari,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,283,Bhatwari,40729,Dwari,"Dwari,Bhatwari,Uttarkashi,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41263,Rikhwari,"Rikhwari,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41894,Parawari,"Parawari,Gairsain,Chamoli,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42146,Bhatwari,"Bhatwari,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42211,Bhatwari,"Bhatwari,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42242,Jawari,"Jawari,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42397,Tarwari,"Tarwari,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42398,Jawari,"Jawari,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42415,Darmwari,"Darmwari,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42454,Bhatwari,"Bhatwari,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42461,Bhatwari,"Bhatwari,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42541,Agar Jawari,"Agar Jawari,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42570,Bhatwari,"Bhatwari,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42650,Bhatwari,"Bhatwari,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42675,Lekh Lawari,"Lekh Lawari,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42806,Marwari,"Marwari,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42930,Dwari,"Dwari,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42990,Bhatwari,"Bhatwari,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42999,Duwari,"Duwari,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43030,Gagwari,"Gagwari,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43297,Baijawari,"Baijawari,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43386,Sirwari,"Sirwari,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43636,Swari,"Swari,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43644,Swari,"Swari,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43661,Khitwari,"Khitwari,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43809,Ratwari,"Ratwari,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43903,Kakhwari,"Kakhwari,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43912,Swari,"Swari,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43920,Semalwari,"Semalwari,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44078,Saltwari,"Saltwari,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44107,Bhatwari,"Bhatwari,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44137,Pantwari,"Pantwari,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44262,Bhainswari,"Bhainswari,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44313,Jaintwari,"Jaintwari,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,60,Dehradun,302,Kalsi,44934,Tilwari,"Tilwari,Kalsi,Dehradun,Uttarakhand,India"
+5,60,Dehradun,303,Vikasnagar,45057,Tilwari,"Tilwari,Vikasnagar,Dehradun,Uttarakhand,India"
+5,60,Dehradun,304,"Dehradun 
+",45136,Galajwari,"Galajwari,Dehradun,Dehradun,Uttarakhand,India"
+5,60,Dehradun,305,"Rishikesh
+",45273,Haldwari,"Haldwari,Rishikesh,Dehradun,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45390,Chadarawari,"Chadarawari,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45663,Phalswari,"Phalswari,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45786,Nawari,"Nawari,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45820,Kakarwari,"Kakarwari,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46212,Bangwari,"Bangwari,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46578,Gwari,"Gwari,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47111,Dadwari,"Dadwari,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47186,Merwari,"Merwari,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47243,Gawari,"Gawari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47312,Bhargwari,"Bhargwari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47429,Alanwari,"Alanwari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47464,Chindalwari,"Chindalwari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47533,Dhiswari,"Dhiswari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47584,Silwari,"Silwari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47632,Sirsawari,"Sirsawari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47660,Dwari,"Dwari,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47771,Sagwari,"Sagwari,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47823,Raiwari,"Raiwari,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47848,Khandawari,"Khandawari,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47850,Chinwari,"Chinwari,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48072,Ringwari,"Ringwari,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48364,Bhanawari,"Bhanawari,Kotdwara,Garhwal,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49866,Bhardwari,"Bhardwari,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50038,Nargwari,"Nargwari,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50395,Kuchala Bhadwari,"Kuchala Bhadwari,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,63,Bageshwar,321,Kapkot,50524,Kuwari,"Kuwari,Kapkot,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50948,Binwal Tewari,"Binwal Tewari,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51034,Maswari,"Maswari,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51317,Kot Fulwari,"Kot Fulwari,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51357,Nargwari,"Nargwari,Garud,Bageshwar,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52409,Mowari,"Mowari,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52624,Faldwari,"Faldwari,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52679,Rawari,"Rawari,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52880,Supai Tiwari,"Supai Tiwari,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53082,Chitai Tiwari,"Chitai Tiwari,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53109,Atdeli Tiwari,"Atdeli Tiwari,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53239,Jakh Tewari,"Jakh Tewari,Almora,Almora,Uttarakhand,India"
+5,65,Champawat,335,Pati,53993,Baswari,"Baswari,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54045,Kimwari,"Kimwari,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54056,Bhumwari,"Bhumwari,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54069,Takbalwari,"Takbalwari,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54359,Binda Tiwari,"Binda Tiwari,Lohaghat,Champawat,Uttarakhand,India"
+5,66,Nainital,339,Betalghat,54608,Chuni Chak Adwari,"Chuni Chak Adwari,Betalghat,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54885,Tilwari,"Tilwari,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,343,Ramnagar,55357,Chandrapur Tiwari,"Chandrapur Tiwari,Ramnagar,Nainital,Uttarakhand,India"
+5,66,Nainital,343,Ramnagar,55428,Haripura Tiwari,"Haripura Tiwari,Ramnagar,Nainital,Uttarakhand,India"
+5,67,Udham Singh Nagar,346,Kashipur,55681,Kundeswari,"Kundeswari,Kashipur,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,348,Bajpur,55813,Bandwari,"Bandwari,Bajpur,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,348,Bajpur,55874,Kelabandwari,"Kelabandwari,Bajpur,Udham Singh Nagar,Uttarakhand,India"

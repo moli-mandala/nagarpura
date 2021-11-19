@@ -1,0 +1,1078 @@
+STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
+5,56,Uttarkashi,278,Puraula,40174,Hudoli,"Hudoli,Puraula,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,278,Puraula,40179,Bhankoli,"Bhankoli,Puraula,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,279,Mori,40197,Dagoli,"Dagoli,Mori,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,280,Rajgarhi,40311,Gadoli,"Gadoli,Rajgarhi,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,281,Dunda,40478,Chinakholi,"Chinakholi,Dunda,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,281,Dunda,40539,Chhamroli,"Chhamroli,Dunda,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,281,Dunda,40570,Dikholi,"Dikholi,Dunda,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40620,Ramoli,"Ramoli,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40632,Gadoli,"Gadoli,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40647,Matholi,"Matholi,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,283,Bhatwari,40757,Gajoli,"Gajoli,Bhatwari,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,283,Bhatwari,40758,Bhankoli,"Bhankoli,Bhatwari,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,283,Bhatwari,40797,Kuroli,"Kuroli,Bhatwari,Uttarkashi,Uttarakhand,India"
+5,57,Chamoli,0,Chamoli,0,Chamoli,"Chamoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,284,Joshimath ,40872,Chamtoli,"Chamtoli,Joshimath,Chamoli,Uttarakhand,India"
+5,57,Chamoli,284,Joshimath ,40899,Lamtoli,"Lamtoli,Joshimath,Chamoli,Uttarakhand,India"
+5,57,Chamoli,284,Joshimath ,40905,Chamoli,"Chamoli,Joshimath,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,0,Chamoli,"Chamoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40912,Siroli,"Siroli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40915,Dhanoli,"Dhanoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40920,Makroli,"Makroli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40961,Salaraitoli,"Salaraitoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40966,Chatolikiroli,"Chatolikiroli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40967,Digoli,"Digoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40970,Tartoli,"Tartoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40990,Rangtoli,"Rangtoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40991,Anagoli,"Anagoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40996,Boli,"Boli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,40999,Pilang Chatoli,"Pilang Chatoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41014,Naitoli,"Naitoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41016,Sena lagga Sartoli,"Sena lagga Sartoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41025,Sartoli,"Sartoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41074,Kumartoli,"Kumartoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41098,Saitoli,"Saitoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41100,Ustoli,"Ustoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41101,Dhola Chak Ustoli,"Dhola Chak Ustoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41112,Dhar Gaon lagga ustoli,"Dhar Gaon lagga ustoli,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41144,Pungroli,"Pungroli,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41147,Patroli,"Patroli,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41158,Pithatoli,"Pithatoli,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41171,Kimkholi,"Kimkholi,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41225,Simkholi,"Simkholi,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41240,Chhandoli,"Chhandoli,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41288,Sidoli,"Sidoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41291,Baratoli,"Baratoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41323,Bainoli,"Bainoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41352,Jhurakandi urf matoli,"Jhurakandi urf matoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41353,Gairoli,"Gairoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41357,Bhatoli Laga Gairoli,"Bhatoli Laga Gairoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41370,Bansoli,"Bansoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41387,Mangroli,"Mangroli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41389,Bantoli,"Bantoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41398,Hindoli,"Hindoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41401,Kharkholi,"Kharkholi,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41403,Chamtoli,"Chamtoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41408,Ganoli,"Ganoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41412,Bidoli,"Bidoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41413,Kantholi,"Kantholi,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41418,Suktoli,"Suktoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41421,Ritholi,"Ritholi,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41422,Partoli,"Partoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41427,Barmoli,"Barmoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41447,Matholi,"Matholi,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41451,Siroli,"Siroli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41478,Simtoli,"Simtoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41486,Bagoli,"Bagoli,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41520,Khaintoli,"Khaintoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41545,Kimoli,"Kimoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41598,Dangtoli,"Dangtoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41615,Kakad Toli,"Kakad Toli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41620,Pastoli,"Pastoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41630,Khainoli,"Khainoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41632,Titara Kholi,"Titara Kholi,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41638,Jhinjholi,"Jhinjholi,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41651,Nakholi,"Nakholi,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41655,Tuniya Laga Angtoli,"Tuniya Laga Angtoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41657,Tonda Laga Angtoli,"Tonda Laga Angtoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41662,Angtoli,"Angtoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41666,Majetha Laga Angtoli,"Majetha Laga Angtoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41695,Dhungakholi,"Dhungakholi,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41756,Ichchholi,"Ichchholi,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41770,Harani Chak Mundoli,"Harani Chak Mundoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41771,Mundoli,"Mundoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41772,Mela Chak Mundoli,"Mela Chak Mundoli,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41822,Giratoli,"Giratoli,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41835,Airoli,"Airoli,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41848,Daramoli,"Daramoli,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41852,Miroli,"Miroli,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41856,Burakholi,"Burakholi,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41874,Randoli,"Randoli,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41926,Rikholi,"Rikholi,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41936,Sinatoli,"Sinatoli,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41937,Gadoli,"Gadoli,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41986,Maikholi,"Maikholi,Gairsain,Chamoli,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42125,Jugasuchak Biroli,"Jugasuchak Biroli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42126,Biroli,"Biroli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42137,Mangoli,"Mangoli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42193,Singoli,"Singoli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42194,Namoli,"Namoli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42210,Tinsoli,"Tinsoli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42250,Moli,"Moli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42277,Dadoli,"Dadoli,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42350,Batoli,"Batoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42366,Bula Toli,"Bula Toli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42368,Mahendra Bagoli,"Mahendra Bagoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42371,Dobha Doblaga Kafoli,"Dobha Doblaga Kafoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42377,Koli,"Koli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42391,Jutoli,"Jutoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42428,Methana Chhitoli,"Methana Chhitoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42437,Kumoli,"Kumoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42439,Bamoli,"Bamoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42462,Urkholi,"Urkholi,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42464,Ghimtoli,"Ghimtoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42503,Jhirmoli,"Jhirmoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42514,Dhartoli,"Dhartoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42522,Simtoli,"Simtoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42532,Loli,"Loli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42579,Ghiroli,"Ghiroli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42582,Jasoli,"Jasoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42585,Langala Lagaladoli,"Langala Lagaladoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42590,Ladoli,"Ladoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,291,"Rudraprayag
+",42595,Raitoli,"Raitoli,Rudraprayag,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42607,Uroli,"Uroli,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42615,Jakholi,"Jakholi,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42636,Jagtoli,"Jagtoli,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42656,Uroli,"Uroli,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42657,Kurchholi,"Kurchholi,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42664,Atholi,"Atholi,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42667,Bainoli,"Bainoli,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42696,Jakhatoli,"Jakhatoli,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42717,Jakholi,"Jakholi,Jakholi*,Rudraprayag,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42758,Banoli,"Banoli,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42804,Banoli,"Banoli,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42813,Toli,"Toli,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42847,Jandoli,"Jandoli,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,42871,Chadoli,"Chadoli,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43021,Sarpoli,"Sarpoli,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43052,Chapoli,"Chapoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43055,Toli,"Toli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43057,Sirmoli,"Sirmoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43162,Toli,"Toli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43189,Bhadoli,"Bhadoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43197,Toli,"Toli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43200,Rasoli,"Rasoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43229,Takoli,"Takoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43237,Barsoli,"Barsoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43244,Gurchholi,"Gurchholi,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43259,Laksh Moli,"Laksh Moli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43261,Amoli,"Amoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43274,Kandoli,"Kandoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43279,Amaroli,"Amaroli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43292,Kuroli,"Kuroli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43307,Kaparoli,"Kaparoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43321,Siloli,"Siloli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43329,Mundoli,"Mundoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43335,Ringoli,"Ringoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,294,Devprayag,43417,Takoli,"Takoli,Devprayag,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,295,Pratapnagar,43500,Kharoli,"Kharoli,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,295,Pratapnagar,43544,Gadoli,"Gadoli,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,295,Pratapnagar,43546,Dov Lamoli,"Dov Lamoli,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,295,Pratapnagar,43560,Ganoli,"Ganoli,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,295,Pratapnagar,43572,Siloli,"Siloli,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43599,Dasoli,"Dasoli,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43604,Takoli,"Takoli,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43605,Nandoli,"Nandoli,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43637,Undoli,"Undoli,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43664,Ratoli,"Ratoli,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43669,Danoli,"Danoli,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43691,Rudoli,"Rudoli,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43710,Kaintholi,"Kaintholi,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43743,Dadoli,"Dadoli,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43785,Khamoli,"Khamoli,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43805,Majholi,"Majholi,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43835,Barnoli,"Barnoli,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43925,Dhanoli,"Dhanoli,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,43963,Kandakholi,"Kandakholi,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,44061,Tungoli,"Tungoli,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,44062,Bangoli,"Bangoli,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44174,Bhatoli,"Bhatoli,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44202,Matholi,"Matholi,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44351,Kurungoli,"Kurungoli,Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44354,Naicholi,"Naicholi,Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44427,Kasmoli,"Kasmoli,Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44448,Lamoli,"Lamoli,Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44460,Bhatoli,"Bhatoli,Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44538,Bhatoli,"Bhatoli,Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44563,Jakholi,"Jakholi,Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44630,Indroli,"Indroli,Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,301,Tyuni,44769,Bhandroli,"Bhandroli,Tyuni,Dehradun,Uttarakhand,India"
+5,60,Dehradun,304,"Dehradun 
+",45163,Chhamroli,"Chhamroli,Dehradun,Dehradun,Uttarakhand,India"
+5,60,Dehradun,304,"Dehradun 
+",45216,Sodasaroli,"Sodasaroli,Dehradun,Dehradun,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45372,Digoli,"Digoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45377,Kandoli,"Kandoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45450,Taroli,"Taroli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45478,Bagoli,"Bagoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45503,Mandoli,"Mandoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45504,Sunkholi,"Sunkholi,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45507,Gahad Lagga Bhatoli,"Gahad Lagga Bhatoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45512,Bhatoli,"Bhatoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45524,Jendhar lagga batholi,"Jendhar lagga batholi,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45529,Takoli,"Takoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45532,Sunar Kholi,"Sunar Kholi,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45534,Mandoli,"Mandoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45535,Hiwal Dhar lagga ramsoli,"Hiwal Dhar lagga ramsoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45554,Kafoli,"Kafoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45562,Mundoli,"Mundoli,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45571,Katta Kholi,"Katta Kholi,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45614,Kirmoli,"Kirmoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45665,Chamoli,"Chamoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45698,Chaproli,"Chaproli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45703,Malkholi,"Malkholi,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45780,Matoli,"Matoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45801,Toli,"Toli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45818,Ghuroli,"Ghuroli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45827,Jakhnoli,"Jakhnoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45912,Tangroli,"Tangroli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45914,Kimoli,"Kimoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45918,Chiloli,"Chiloli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45935,Rithooli,"Rithooli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45937,Saknoli,"Saknoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45951,Tangoli,"Tangoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45956,Bakroli,"Bakroli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45980,Haira Kholi,"Haira Kholi,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46001,Modoli,"Modoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46004,Sundoli,"Sundoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46014,Toli,"Toli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46061,Dhweli Lagga Nawoli,"Dhweli Lagga Nawoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46063,Naoli,"Naoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46077,Panjoli,"Panjoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46083,Pisoli,"Pisoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46106,Kholi,"Kholi,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46110,Asnoli,"Asnoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46125,Siroli,"Siroli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46130,Gosil Kholi,"Gosil Kholi,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46140,Budoli,"Budoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46174,Khaproli,"Khaproli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46175,Nagoli,"Nagoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46273,Chimoli,"Chimoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46305,Bidoli,"Bidoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46308,Papad Toli,"Papad Toli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46310,Ladoli,"Ladoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46319,Jitoli,"Jitoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46331,Dhor Kholi,"Dhor Kholi,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46342,Mankholi,"Mankholi,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46363,Matoli,"Matoli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46379,Manj Kholi,"Manj Kholi,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46423,Gabroli,"Gabroli,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46446,Dekholi Or Dev Kholi,"Dekholi Or Dev Kholi,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46459,Seloli,"Seloli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46462,Sirtoli,"Sirtoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46463,Darmoli,"Darmoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46475,Bedoli,"Bedoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46487,Bartoli,"Bartoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46508,Chyoli,"Chyoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46520,Antakholi,"Antakholi,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46526,Rekholi,"Rekholi,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46534,Gadoli,"Gadoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46567,Mandoli,"Mandoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46589,Maikholi,"Maikholi,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46627,Paptoli,"Paptoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46667,Sinkholi Or Simkholi,"Sinkholi Or Simkholi,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46693,Gadoli,"Gadoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46694,Setoli,"Setoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46699,Simkholi,"Simkholi,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46725,Siloli,"Siloli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46739,Kurjoli,"Kurjoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46758,Degoli,"Degoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46767,Kimoli,"Kimoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46815,Chandoli,"Chandoli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46822,Timala Kholi,"Timala Kholi,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46853,Siroli,"Siroli,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46882,Seli Pakholi,"Seli Pakholi,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46890,Taili Paholi,"Taili Paholi,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46931,Timla Kholi,"Timla Kholi,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46942,Mandoli,"Mandoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46953,Khadkholi,"Khadkholi,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46965,Degoli,"Degoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46970,Kotapinjoli,"Kotapinjoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46978,Badupinjoli,"Badupinjoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47003,Dovakatandoli,"Dovakatandoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47053,Androli,"Androli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47056,Dadatoli,"Dadatoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47104,Amkholi,"Amkholi,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47133,Basnoli,"Basnoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47146,Gangoli,"Gangoli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47155,Ghiroli,"Ghiroli,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47218,Amkholi,"Amkholi,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47250,Thantholi,"Thantholi,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47292,Bamoli,"Bamoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47302,Bijoli,"Bijoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47392,Khundoli,"Khundoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47397,Holi,"Holi,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47404,Siloli,"Siloli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47414,Kunjoli,"Kunjoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47506,Lweetha Lagga Matholi,"Lweetha Lagga Matholi,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47568,Raotoli,"Raotoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47569,Sundroli,"Sundroli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47574,Takoli,"Takoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47576,Lekoli,"Lekoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47610,Mandoli,"Mandoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47611,Hitoli,"Hitoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,310,Lansdowne,47617,Masmoli,"Masmoli,Lansdowne,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47742,Khand Kholi,"Khand Kholi,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47770,Patkholi,"Patkholi,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47787,Kandoli,"Kandoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47804,Dhadoli,"Dhadoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47812,Kharkholi,"Kharkholi,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47824,Toli,"Toli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47826,Moli,"Moli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47859,Majoli,"Majoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47860,Katholi,"Katholi,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47868,Kimoli,"Kimoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47880,Nagroli,"Nagroli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47888,Badoli,"Badoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47889,Kundoli,"Kundoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47904,Bantholi,"Bantholi,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47924,Balooli,"Balooli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47929,Goli,"Goli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47941,Nandoli,"Nandoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47950,Binjoli,"Binjoli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47954,Toli,"Toli,Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,47994,Budoli,"Budoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48012,Badoli,"Badoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48015,Pusoli,"Pusoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48051,Busoli,"Busoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48056,Gairoli,"Gairoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48065,Khandoli,"Khandoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48085,Bichkoli,"Bichkoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48088,Bamoli,"Bamoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48101,Bamoli,"Bamoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48133,Syoli,"Syoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48146,Ghandoli,"Ghandoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48180,Gadoli,"Gadoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48181,Jhartoli,"Jhartoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48183,Tacholi,"Tacholi,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48185,Subki Haroli,"Subki Haroli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48219,Lakholi,"Lakholi,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48225,Kandoli,"Kandoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48237,Masmoli,"Masmoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48249,Saknoli,"Saknoli,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,312,Chaubattakhal,48257,Naukholi,"Naukholi,Chaubattakhal,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48284,Daboli,"Daboli,Kotdwara,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48287,Joli,"Joli,Kotdwara,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48306,Birmoli,"Birmoli,Kotdwara,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48333,Toli,"Toli,Kotdwara,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48338,Joli,"Joli,Kotdwara,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48404,Amoli,"Amoli,Kotdwara,Garhwal,Uttarakhand,India"
+5,61,Garhwal,313,"Kotdwara
+",48448,Amkholi,"Amkholi,Kotdwara,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48661,Dadoli,"Dadoli,Yamkeshwar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48727,Umroli,"Umroli,Yamkeshwar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48736,Piproli,"Piproli,Yamkeshwar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48766,Harsoli,"Harsoli,Yamkeshwar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48809,Aroli,"Aroli,Yamkeshwar,Garhwal,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,48849,Martoli,"Martoli,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,48873,Khartoli,"Khartoli,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,48881,Dhuratoli,"Dhuratoli,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,48904,Nirtoli,"Nirtoli,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,48922,Sarmoli,"Sarmoli,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,48960,Kholi,"Kholi,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,49006,Toli,"Toli,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,315,Munsiari,49017,Kholi,"Kholi,Munsiari,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,316,Dharchula,49131,Toli,"Toli,Dharchula,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,316,Dharchula,49135,Ramtoli,"Ramtoli,Dharchula,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,316,Dharchula,49142,Dhunga Toli,"Dhunga Toli,Dharchula,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49156,Turgoli,"Turgoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49174,Darmoli,"Darmoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49197,Raitoli,"Raitoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49215,Sitoli,"Sitoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49219,Garsoli,"Garsoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49249,Masmoli,"Masmoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49262,Dhartoli,"Dhartoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49283,Chamoli,"Chamoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49291,Nakholi,"Nakholi,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49305,Kholi,"Kholi,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49338,Nakhnoli,"Nakhnoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49339,Myoli,"Myoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49343,Markoli,"Markoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49344,Dantoli,"Dantoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49361,Bamdoli,"Bamdoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49379,Siroli,"Siroli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49401,Sitoli,"Sitoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49420,Raitoli,"Raitoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49430,Sinkholi,"Sinkholi,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49434,Sirtoli,"Sirtoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49475,Siroli,"Siroli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49477,Majholi,"Majholi,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49488,Patharoli,"Patharoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49495,Chamtoli,"Chamtoli,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49515,Sunkholi,"Sunkholi,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49540,Hirmoli,"Hirmoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49544,Dwali kholi,"Dwali kholi,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49548,Bantoli,"Bantoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49551,Syoli,"Syoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49559,Uri Sirtoli,"Uri Sirtoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49576,Dasoli,"Dasoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49589,Darmoli,"Darmoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49592,Ghangholi,"Ghangholi,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49596,Jajoli,"Jajoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49598,Adholi,"Adholi,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49600,Nayal Sapoli,"Nayal Sapoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49601,Batroli,"Batroli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49603,Thatholi,"Thatholi,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49623,Kiroli,"Kiroli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49624,Baitholi,"Baitholi,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49631,Nayal Saknoli,"Nayal Saknoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49641,Bagdoli,"Bagdoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49653,Maitoli,"Maitoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49666,Digtoli,"Digtoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49687,Bartunga Sirtoli,"Bartunga Sirtoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49692,Punoli,"Punoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49694,Jajar Sirtoli,"Jajar Sirtoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49695,Jajar Khitoli,"Jajar Khitoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49700,Manoli Daboli,"Manoli Daboli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49701,Musola Punoli,"Musola Punoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49706,Bhulyudo Panoli,"Bhulyudo Panoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49717,Pungar Kholi,"Pungar Kholi,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49734,Raitoli,"Raitoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49741,Mantoli,"Mantoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49745,Jasoli,"Jasoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49754,Vadholi,"Vadholi,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49818,Khitoli,"Khitoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49831,Siroli,"Siroli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49843,Sirsoli,"Sirsoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49855,Thadoli,"Thadoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49863,Singaroli,"Singaroli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49870,Raitoli,"Raitoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49875,Khairoli,"Khairoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49894,Dhighar Kholi,"Dhighar Kholi,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49896,Lakhtoli,"Lakhtoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49913,Kunlta Chak Saintoli,"Kunlta Chak Saintoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49925,Sera Urf Badoli,"Sera Urf Badoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49931,Anoli,"Anoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49941,Matoli,"Matoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49943,Nainoli,"Nainoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49968,Dharmoli,"Dharmoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49970,Tunkholi,"Tunkholi,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49971,Paintoli,"Paintoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49978,Thatholi,"Thatholi,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49984,Biroli,"Biroli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,49987,Khitoli,"Khitoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50008,Siroli,"Siroli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50020,Takoli,"Takoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50037,Birgoli,"Birgoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50043,Choli,"Choli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50061,Kotali Lagga Birgoli,"Kotali Lagga Birgoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50099,Dantoli,"Dantoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50111,Bataka Toli,"Bataka Toli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50123,Dharari Nainoli,"Dharari Nainoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50147,Chaur Duroli,"Chaur Duroli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50157,Kharkoli,"Kharkoli,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50171,Jhunkoli,"Jhunkoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50178,Digtoli,"Digtoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50185,Bans Maitoli,"Bans Maitoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50187,Sintoli,"Sintoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50201,Nargoli,"Nargoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50204,Khitoli,"Khitoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50268,Machhina Kholi,"Machhina Kholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50298,Ghighar Kholi,"Ghighar Kholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50325,Sirpoli,"Sirpoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50331,Khitoli,"Khitoli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50364,Sinkholi,"Sinkholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50366,Pankholi,"Pankholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50390,Khark Dholi,"Khark Dholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50394,Dholi Kholi,"Dholi Kholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50402,Dholi Kholi,"Dholi Kholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50412,Doli,"Doli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50414,Bagar Toli,"Bagar Toli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50415,Bish Kholi,"Bish Kholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50430,Aru Kholi,"Aru Kholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50460,Toli,"Toli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50482,Bich Kholi,"Bich Kholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,320,"Pithoragarh
+",50498,Gurang Toli,"Gurang Toli,Pithoragarh,Pithoragarh,Uttarakhand,India"
+5,63,Bageshwar,321,Kapkot,50573,Toli,"Toli,Kapkot,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,321,Kapkot,50578,Toli,"Toli,Kapkot,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,321,Kapkot,50588,Kiroli,"Kiroli,Kapkot,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,321,Kapkot,50596,Kharkana Toli,"Kharkana Toli,Kapkot,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,321,Kapkot,50604,Kapholi,"Kapholi,Kapkot,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,321,Kapkot,50644,Kanoli,"Kanoli,Kapkot,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50707,Banstoli,"Banstoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50709,Garuwa Sirmoli,"Garuwa Sirmoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50712,Rajoli,"Rajoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50722,Dantoli,"Dantoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50727,Dhapoli,"Dhapoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50728,Mantoli,"Mantoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50744,Pali chak Titoli,"Pali chak Titoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50751,Toli,"Toli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50757,Kucholi,"Kucholi,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50760,Khantoli,"Khantoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50767,Lwatoli,"Lwatoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50771,Gojani Hawantoli,"Gojani Hawantoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50796,Digoli,"Digoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50818,Deo Toli,"Deo Toli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50824,Godoli Jhutoli,"Godoli Jhutoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50838,Nargoli,"Nargoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50851,Digoli,"Digoli,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50854,Papoli,"Papoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50855,Kiroli,"Kiroli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50867,Kuroli,"Kuroli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50882,Maholi,"Maholi,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50898,Khabdoli,"Khabdoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50932,Kholi,"Kholi,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50935,Adoli,"Adoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50965,Kwairali Laga Badoli,"Kwairali Laga Badoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50990,Siroli,"Siroli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",50997,Bintoli,"Bintoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51005,Simtoli,"Simtoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51023,Hirmoli,"Hirmoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51027,Ghiroli,"Ghiroli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51083,Khunoli,"Khunoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51099,Gwatoli,"Gwatoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51111,Bamroli,"Bamroli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51123,Nayal Chamoli,"Nayal Chamoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51125,Kimoli,"Kimoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51131,Matyoli,"Matyoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51135,Ratmoli,"Ratmoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51143,Kafoli,"Kafoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51149,Badoli,"Badoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51157,Raikholi,"Raikholi,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51163,Ujyoli,"Ujyoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51200,Bhatkhola Chak Kimkholi,"Bhatkhola Chak Kimkholi,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51201,Bhanartoli,"Bhanartoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51227,Simtoli,"Simtoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51230,Raikholi,"Raikholi,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51237,Amoli,"Amoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51239,Kisroli,"Kisroli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51241,Khiroli,"Khiroli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51243,Tarmoli,"Tarmoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,323,"Bageshwar
+",51258,Khabdoli,"Khabdoli,Bageshwar,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51280,Raitoli,"Raitoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51309,Titoli,"Titoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51316,Than Dangoli,"Than Dangoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51327,Purwi Ayartoli,"Purwi Ayartoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51328,Binkholi,"Binkholi,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51329,Chanoli,"Chanoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51346,Ayartoli,"Ayartoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51352,Mantoli,"Mantoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51372,Sitoli,"Sitoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51389,Amoli,"Amoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51404,Chamoli,"Chamoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51409,Dhirtoli,"Dhirtoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51410,Silangtoli,"Silangtoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51414,Bantoli,"Bantoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51426,Khitoli,"Khitoli,Garud,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,324,Garud,51427,Jijoli,"Jijoli,Garud,Bageshwar,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51484,Surmoli,"Surmoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51486,Bharsoli,"Bharsoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51498,Chintoli,"Chintoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51537,Sunoli,"Sunoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51579,Talli Mahroli,"Talli Mahroli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51623,Piparoli,"Piparoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51625,Adagoli,"Adagoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51627,Thiroli,"Thiroli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51628,Binoli,"Binoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51643,Simtoli,"Simtoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51660,Chhapoli,"Chhapoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51662,Jamoli,"Jamoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51664,Khargoli,"Khargoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51666,Amoli,"Amoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51667,Singoli,"Singoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51686,Kadholi,"Kadholi,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51690,Chanoli,"Chanoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51696,Inoli,"Inoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51705,Kainakapoli,"Kainakapoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51714,Soli,"Soli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51723,Tholi,"Tholi,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51728,Termoli,"Termoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51729,Harnoli,"Harnoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51735,Binoli,"Binoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51745,Bamyoli,"Bamyoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51757,Khanoli,"Khanoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51760,Bahnoli,"Bahnoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51762,Sirmoli,"Sirmoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51770,Gairkholi,"Gairkholi,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51793,Dadholi,"Dadholi,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51802,Amuroli,"Amuroli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51805,Sutoli,"Sutoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51821,Titoli,"Titoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51838,Dugoli,"Dugoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51839,Hadoli,"Hadoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51847,Binoli,"Binoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51848,Deyoli,"Deyoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51849,Sajkholi,"Sajkholi,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51850,Toli,"Toli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",325,BHIKIYASAIN,51856,Bhatoli,"Bhatoli,BHIKIYASAIN,Almora,Uttarakhand,India"
+5,64,"Almora
+",326,Chaukhutiya,51865,Papoli,"Papoli,Chaukhutiya,Almora,Uttarakhand,India"
+5,64,"Almora
+",326,Chaukhutiya,51873,Kabdoli,"Kabdoli,Chaukhutiya,Almora,Uttarakhand,India"
+5,64,"Almora
+",326,Chaukhutiya,51949,Siroli,"Siroli,Chaukhutiya,Almora,Uttarakhand,India"
+5,64,"Almora
+",326,Chaukhutiya,51963,Sunoli,"Sunoli,Chaukhutiya,Almora,Uttarakhand,India"
+5,64,"Almora
+",326,Chaukhutiya,51975,Basoli,"Basoli,Chaukhutiya,Almora,Uttarakhand,India"
+5,64,"Almora
+",326,Chaukhutiya,52015,Gugholi,"Gugholi,Chaukhutiya,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52039,Masmoli,"Masmoli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52058,Malli Mahroli,"Malli Mahroli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52061,Rudholi,"Rudholi,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52097,Patoli,"Patoli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52114,Kuloli,"Kuloli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52121,Soli,"Soli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52184,Nadoli,"Nadoli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52185,Jamoli,"Jamoli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52221,Mijholi,"Mijholi,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52232,Darmoli,"Darmoli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52235,Chounoli,"Chounoli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",327,Sult,52239,Khatoli,"Khatoli,Sult,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52285,Mujholi,"Mujholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52286,Dhankholi,"Dhankholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52306,Uroli,"Uroli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52311,Bhaisoli,"Bhaisoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52314,Kanoli,"Kanoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52333,Gatoli,"Gatoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52354,Hadoli,"Hadoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52378,Haroli,"Haroli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52380,Ladholi,"Ladholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52391,Gouloli,"Gouloli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52397,Kunkoli,"Kunkoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52398,Singoli,"Singoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52399,Jakholi,"Jakholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52402,Pali Nadoli,"Pali Nadoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52405,Khudoli,"Khudoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52406,Chalsiapadoli,"Chalsiapadoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52414,Rikholi,"Rikholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52422,Airoli,"Airoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52430,Pinoli,"Pinoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52431,Gudholi,"Gudholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52433,Bisht Kotoli,"Bisht Kotoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52448,Patholi,"Patholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52460,Simoli,"Simoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52470,Siroli,"Siroli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52471,Chamoli,"Chamoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52472,Pilkholi,"Pilkholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52473,Jainoli,"Jainoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52496,Jitoli,"Jitoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52502,Musoli,"Musoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52505,Punoli,"Punoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52528,Diholi,"Diholi,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52542,Khudoli,"Khudoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52544,Mangdoli,"Mangdoli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",328,Ranikhet,52565,Shiroli,"Shiroli,Ranikhet,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52590,Chanoli,"Chanoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52593,Malli Mayoli,"Malli Mayoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52604,Jaitoli,"Jaitoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52617,wudholi,"wudholi,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52626,Shyotoli,"Shyotoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52651,Bajoli,"Bajoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52674,Dhamoli,"Dhamoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52698,Mainoli,"Mainoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52701,Dadholi,"Dadholi,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52704,Banoli,"Banoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52715,Ganoli,"Ganoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52726,Malli Bitholi,"Malli Bitholi,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52731,Talli Bitholi,"Talli Bitholi,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52755,Pinoli,"Pinoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52756,Kina Lagga Majra Kiroli,"Kina Lagga Majra Kiroli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",329,"Dwarahat
+",52774,Selisunoli,"Selisunoli,Dwarahat,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52811,Amkholi,"Amkholi,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52850,Digoli,"Digoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52859,Bajyoli,"Bajyoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52860,Dhamoli,"Dhamoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52863,Pandetoli,"Pandetoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52865,Chanoli,"Chanoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52919,Padoli,"Padoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52928,Nyoli,"Nyoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52952,Gadholi,"Gadholi,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52961,Jyoli,"Jyoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52981,Papoli,"Papoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",52999,Saroli,"Saroli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53002,Takoli,"Takoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53031,Jyoli,"Jyoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53065,Kud Goli,"Kud Goli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53079,Manyoli,"Manyoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53105,Raikholi,"Raikholi,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53136,Deoli,"Deoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53144,Dhankholi,"Dhankholi,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53186,Malli Toli,"Malli Toli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53188,Talli Toli,"Talli Toli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53192,Aicholi,"Aicholi,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53202,Katholi,"Katholi,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53209,Gutholi,"Gutholi,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53214,Toli,"Toli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",330,"Almora
+",53222,Bartoli,"Bartoli,Almora,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53272,Ubholi,"Ubholi,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53274,Khakoli,"Khakoli,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53307,Chanoli,"Chanoli,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53316,Sutoli,"Sutoli,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53326,Jaicholi,"Jaicholi,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53329,Malla Kholi,"Malla Kholi,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53337,Sajoli,"Sajoli,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53347,Jhaloli,"Jhaloli,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",331,Someshwar,53388,Nainoli,"Nainoli,Someshwar,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53404,Patoli,"Patoli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53415,Sirsoli,"Sirsoli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53418,Bhaga Deoli,"Bhaga Deoli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53419,Bhandoli,"Bhandoli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53435,Dhoora Sangroli,"Dhoora Sangroli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53440,Aroli,"Aroli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53443,Miroli,"Miroli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53477,Naya Sangroli,"Naya Sangroli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53480,Kutoli,"Kutoli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53517,Tham Tholi,"Tham Tholi,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53518,Danyoli,"Danyoli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",332,Jainti,53522,Sainoli,"Sainoli,Jainti,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,0,Bhanoli,"Bhanoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53532,Papoli,"Papoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53558,Kapkoli,"Kapkoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53577,Bhiloli,"Bhiloli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53578,Andoli,"Andoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53588,Ladholi,"Ladholi,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53611,Chimkholi,"Chimkholi,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53622,Nainoli,"Nainoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53630,Fara Kholi,"Fara Kholi,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53631,Mayoli,"Mayoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53636,Takoli,"Takoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53638,Munoli,"Munoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53642,Kudkoli,"Kudkoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53656,Punoli,"Punoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53665,Diyar Kholi,"Diyar Kholi,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53685,Doram Paloli,"Doram Paloli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53694,Khar Koli,"Khar Koli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53707,Punoli,"Punoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53724,Bhanoli,"Bhanoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53737,Bheta Baroli,"Bheta Baroli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53739,Papoli,"Papoli,Bhanoli,Almora,Uttarakhand,India"
+5,64,"Almora
+",333,Bhanoli,53743,Basoli,"Basoli,Bhanoli,Almora,Uttarakhand,India"
+5,65,Champawat,334,Champawat,53785,Mairoli,"Mairoli,Champawat,Champawat,Uttarakhand,India"
+5,65,Champawat,334,Champawat,53788,Goli,"Goli,Champawat,Champawat,Uttarakhand,India"
+5,65,Champawat,334,Champawat,53820,Jaigaon Jatoli,"Jaigaon Jatoli,Champawat,Champawat,Uttarakhand,India"
+5,65,Champawat,334,Champawat,53830,Bardoli,"Bardoli,Champawat,Champawat,Uttarakhand,India"
+5,65,Champawat,334,Champawat,53902,Gor Kholi,"Gor Kholi,Champawat,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,53980,Biroli,"Biroli,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54005,Rikholi,"Rikholi,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54009,Punoli,"Punoli,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54010,Sibyoli,"Sibyoli,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54036,Jhar Sirtoli,"Jhar Sirtoli,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54067,Mairoli,"Mairoli,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,335,Pati,54090,Madyoli,"Madyoli,Pati,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54106,Sirmoli,"Sirmoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54109,Bharoli,"Bharoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54113,Sirtoli,"Sirtoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54159,Mirtoli,"Mirtoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54193,Dyartoli,"Dyartoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54199,Bayoli,"Bayoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54203,Bantoli,"Bantoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54220,Chamroli,"Chamroli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54223,Chamoli,"Chamoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54262,Chhatoli,"Chhatoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54264,Sirtoli,"Sirtoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54271,Batoli,"Batoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54273,Mangoli,"Mangoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54279,Kimtoli,"Kimtoli,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54349,Patoli,"Patoli,Lohaghat,Champawat,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54482,Haroli,"Haroli,Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54501,Kujoli,"Kujoli,Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54515,Garjoli,"Garjoli,Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54575,Kamoli,"Kamoli,Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54580,Singoli,"Singoli,Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,339,Betalghat,54660,Tangura Lagga Ghiroli,"Tangura Lagga Ghiroli,Betalghat,Nainital,Uttarakhand,India"
+5,66,Nainital,339,Betalghat,54665,Rikholi,"Rikholi,Betalghat,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54684,Amtoli,"Amtoli,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54723,Kastnoli,"Kastnoli,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54742,Payakholi,"Payakholi,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54743,Sain Kutoli,"Sain Kutoli,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54769,Darmoli,"Darmoli,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54770,Pidholi,"Pidholi,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54804,Mangoli,"Mangoli,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54808,Ling Lagga Mangoli,"Ling Lagga Mangoli,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54815,Jeoli,"Jeoli,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,54972,Maitoli,"Maitoli,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,54993, Bheti Diyar Kholi,"Bheti Diyar Kholi,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,55005,Kafroli,"Kafroli,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,55008,Digoli,"Digoli,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,55044,Chamoli,"Chamoli,Dhari,Nainital,Uttarakhand,India"
+5,67,Udham Singh Nagar,349,Kichha,55985,Gangoli,"Gangoli,Kichha,Udham Singh Nagar,Uttarakhand,India"
+5,68,Hardwar,355,"Laksar
+",56835,Prempur Urf Ladoli,"Prempur Urf Ladoli,Laksar,Hardwar,Uttarakhand,India"
+5,68,Hardwar,355,"Laksar
+",56845,Keshowala Urf Ladoli,"Keshowala Urf Ladoli,Laksar,Hardwar,Uttarakhand,India"
