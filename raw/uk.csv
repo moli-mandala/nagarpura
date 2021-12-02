@@ -43,7 +43,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,278,Puraula,40139,Purola,"Purola,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40140,Makhana,"Makhana,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40141,Molkat,"Molkat,Puraula,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,278,Puraula,40142,Pujeli (Brahmanoki),"Pujeli (Brahmanoki),Puraula,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,278,Puraula,40142,Pujeli,"Pujeli,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40143,Kumola,"Kumola,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40144,Korana,"Korana,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40145,Nauri,"Nauri,Puraula,Uttarkashi,Uttarakhand,India"
@@ -60,12 +60,12 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,278,Puraula,40156,Mairiyara,"Mairiyara,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40157,Dhakaraa,"Dhakaraa,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40158,Shikaru,"Shikaru,Puraula,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,278,Puraula,40159,Karara  (Kurura),"Karara  (Kurura),Puraula,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,278,Puraula,40159,Karara,"Karara,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40160,Darmara,"Darmara,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40161,Chaptari,"Chaptari,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40162,Khalari,"Khalari,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40163,Netri,"Netri,Puraula,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,278,Puraula,40164,Pujeli(Khalari),"Pujeli(Khalari),Puraula,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,278,Puraula,40164,Pujeli,"Pujeli,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40165,Chandeli,"Chandeli,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40166,Sweel,"Sweel,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40167,Saundari,"Saundari,Puraula,Uttarkashi,Uttarakhand,India"
@@ -85,7 +85,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,278,Puraula,40181,Thali,"Thali,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40182,Bandiyar,"Bandiyar,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,278,Puraula,40183,Purola Range,"Purola Range,Puraula,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,278,Puraula,40184,Bhankoli ,"Bhankoli,Puraula,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,278,Puraula,40184,Bhankoli,"Bhankoli,Puraula,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,279,Mori,0,Mori,"Mori,Mori,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,279,Mori,40185,Kiranu,"Kiranu,Mori,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,279,Mori,40186,Duchanu,"Duchanu,Mori,Uttarkashi,Uttarakhand,India"
@@ -348,7 +348,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,280,Rajgarhi,40442,Jandgon,"Jandgon,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,280,Rajgarhi,40443,Khirmu,"Khirmu,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,280,Rajgarhi,40444,Kalojgaon,"Kalojgaon,Rajgarhi,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,280,Rajgarhi,40445,Naugaun(Godar),"Naugaun(Godar),Rajgarhi,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,280,Rajgarhi,40445,Naugaun,"Naugaun,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,280,Rajgarhi,40446,Matari,"Matari,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,280,Rajgarhi,40447,Odgaon,"Odgaon,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,280,Rajgarhi,40448,Lodan,"Lodan,Rajgarhi,Uttarkashi,Uttarakhand,India"
@@ -374,8 +374,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,280,Rajgarhi,40468,Rana Beet,"Rana Beet,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,280,Rajgarhi,40469,Molda Beet,"Molda Beet,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,280,Rajgarhi,40470,Mugarsanti Range,"Mugarsanti Range,Rajgarhi,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,280,Rajgarhi,40471,Mugarsanti Range (P-2),"Mugarsanti Range (P-2),Rajgarhi,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,280,Rajgarhi,40472,Mugarsanti Range (P-3),"Mugarsanti Range (P-3),Rajgarhi,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,280,Rajgarhi,40471,Mugarsanti Range,"Mugarsanti Range,Rajgarhi,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,280,Rajgarhi,40472,Mugarsanti Range,"Mugarsanti Range,Rajgarhi,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,281,Dunda,0,Dunda,"Dunda,Dunda,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,281,Dunda,40473,Rangarisera,"Rangarisera,Dunda,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,281,Dunda,40474,Singot,"Singot,Dunda,Uttarkashi,Uttarakhand,India"
@@ -502,10 +502,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,281,Dunda,40595,Chilmud Gaon,"Chilmud Gaon,Dunda,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,281,Dunda,40596,Bagyal khet,"Bagyal khet,Dunda,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,281,Dunda,40597,Dunda Range,"Dunda Range,Dunda,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,281,Dunda,40598,Dunda Range (P-2),"Dunda Range (P-2),Dunda,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,281,Dunda,40599,Dunda Range (P-3),"Dunda Range (P-3),Dunda,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,281,Dunda,40598,Dunda Range,"Dunda Range,Dunda,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,281,Dunda,40599,Dunda Range,"Dunda Range,Dunda,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,281,Dunda,40600,Dharasu Range,"Dharasu Range,Dunda,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,281,Dunda,40601,Mukhem Range (P-2),"Mukhem Range (P-2),Dunda,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,281,Dunda,40601,Mukhem Range,"Mukhem Range,Dunda,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,282,Chiniyalisaur,0,Chinyali Saur,"Chinyali Saur,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,282,Chiniyalisaur,40602,Ban Gaon,"Ban Gaon,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,282,Chiniyalisaur,40603,Badli,"Badli,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
@@ -609,10 +609,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,282,Chiniyalisaur,40701,Mani Chhoti,"Mani Chhoti,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,282,Chiniyalisaur,40702,Bhald Gaon,"Bhald Gaon,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,282,Chiniyalisaur,40703,Mani Bari,"Mani Bari,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,282,Chiniyalisaur,40704,F-1 (P-1),"F-1 (P-1),Chiniyalisaur,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,282,Chiniyalisaur,40705,F-1 (P-2),"F-1 (P-2),Chiniyalisaur,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,282,Chiniyalisaur,40706,Dharasu Range (P-2),"Dharasu Range (P-2),Chiniyalisaur,Uttarkashi,Uttarakhand,India"
-5,56,Uttarkashi,282,Chiniyalisaur,40707,Dharasu Range (P-3),"Dharasu Range (P-3),Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40704,F-1,"F-1,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40705,F-1,"F-1,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40706,Dharasu Range,"Dharasu Range,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
+5,56,Uttarkashi,282,Chiniyalisaur,40707,Dharasu Range,"Dharasu Range,Chiniyalisaur,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,283,Bhatwari,0,Bhatwari,"Bhatwari,Bhatwari,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,283,Bhatwari,40708,Jadung,"Jadung,Bhatwari,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,283,Bhatwari,40709,Nelang,"Nelang,Bhatwari,Uttarkashi,Uttarakhand,India"
@@ -715,7 +715,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,56,Uttarkashi,283,Bhatwari,40806,Barahat Range,"Barahat Range,Bhatwari,Uttarkashi,Uttarakhand,India"
 5,56,Uttarkashi,283,Bhatwari,40807,Mukhem Range,"Mukhem Range,Bhatwari,Uttarkashi,Uttarakhand,India"
 5,57,Chamoli,0,Chamoli,0,Chamoli,"Chamoli,Chamoli,Chamoli,Uttarakhand,India"
-5,57,Chamoli,284,Joshimath ,0,Joshimath ,"Joshimath,Joshimath,Chamoli,Uttarakhand,India"
+5,57,Chamoli,284,Joshimath ,0,Joshimath,"Joshimath,Joshimath,Chamoli,Uttarakhand,India"
 5,57,Chamoli,284,Joshimath ,40808,Mana,"Mana,Joshimath,Chamoli,Uttarakhand,India"
 5,57,Chamoli,284,Joshimath ,40809,Khiron,"Khiron,Joshimath,Chamoli,Uttarakhand,India"
 5,57,Chamoli,284,Joshimath ,40810,Thaing,"Thaing,Joshimath,Chamoli,Uttarakhand,India"
@@ -1006,7 +1006,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,285,Chamoli,41094,Kanol,"Kanol,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41095,Parnmati,"Parnmati,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41096,Chamtoli Chak Banswara,"Chamtoli Chak Banswara,Chamoli,Chamoli,Uttarakhand,India"
-5,57,Chamoli,285,Chamoli,41097,Sera ,"Sera,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41097,Sera,"Sera,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41098,Saitoli,"Saitoli,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41099,Bijar,"Bijar,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41100,Ustoli,"Ustoli,Chamoli,Chamoli,Uttarakhand,India"
@@ -1027,7 +1027,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,285,Chamoli,41115,Sainti Gunth,"Sainti Gunth,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41116,Kuntari Laga Phali,"Kuntari Laga Phali,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41117,Lankhee,"Lankhee,Chamoli,Chamoli,Uttarakhand,India"
-5,57,Chamoli,285,Chamoli,41118, Banswara Chak sainti,"Banswara Chak sainti,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41118,Banswara Chak sainti,"Banswara Chak sainti,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41119,Moling Chak Lakhi,"Moling Chak Lakhi,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41120,Kuntari lagga sarpani,"Kuntari lagga sarpani,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41121,Bhainti,"Bhainti,Chamoli,Chamoli,Uttarakhand,India"
@@ -1037,10 +1037,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,285,Chamoli,41125,Rani Hat,"Rani Hat,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41126,F-1,"F-1,Chamoli,Chamoli,Uttarakhand,India"
 5,57,Chamoli,285,Chamoli,41127,F-2,"F-2,Chamoli,Chamoli,Uttarakhand,India"
-5,57,Chamoli,285,Chamoli,41128,F-3(P-1),"F-3(P-1),Chamoli,Chamoli,Uttarakhand,India"
-5,57,Chamoli,285,Chamoli,41129,F-3(P-2),"F-3(P-2),Chamoli,Chamoli,Uttarakhand,India"
-5,57,Chamoli,285,Chamoli,41130,F-3(P-3),"F-3(P-3),Chamoli,Chamoli,Uttarakhand,India"
-5,57,Chamoli,286,Pokhari ,0,Pokhari ,"Pokhari,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41128,F-3,"F-3,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41129,F-3,"F-3,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,285,Chamoli,41130,F-3,"F-3,Chamoli,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,0,Pokhari,"Pokhari,Pokhari,Chamoli,Uttarakhand,India"
 5,57,Chamoli,286,Pokhari ,41131,Bhulkan,"Bhulkan,Pokhari,Chamoli,Uttarakhand,India"
 5,57,Chamoli,286,Pokhari ,41132,Kalsir,"Kalsir,Pokhari,Chamoli,Uttarakhand,India"
 5,57,Chamoli,286,Pokhari ,41133,Kujni,"Kujni,Pokhari,Chamoli,Uttarakhand,India"
@@ -1181,8 +1181,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,286,Pokhari ,41268,Panae,"Panae,Pokhari,Chamoli,Uttarakhand,India"
 5,57,Chamoli,286,Pokhari ,41269,Siwae,"Siwae,Pokhari,Chamoli,Uttarakhand,India"
 5,57,Chamoli,286,Pokhari ,41270,Kolda,"Kolda,Pokhari,Chamoli,Uttarakhand,India"
-5,57,Chamoli,286,Pokhari ,41271,F-2(P-1),"F-2(P-1),Pokhari,Chamoli,Uttarakhand,India"
-5,57,Chamoli,286,Pokhari ,41272,F-2(P-2),"F-2(P-2),Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41271,F-2,"F-2,Pokhari,Chamoli,Uttarakhand,India"
+5,57,Chamoli,286,Pokhari ,41272,F-2,"F-2,Pokhari,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,0,Karnaprayag,"Karnaprayag,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41273,Chauki,"Chauki,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41274,Kamera,"Kamera,Karnaprayag,Chamoli,Uttarakhand,India"
@@ -1224,7 +1224,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,287,Karnaprayag,41310,Charkhilgwar,"Charkhilgwar,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41311,Dhanpur Khas,"Dhanpur Khas,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41312,Ovyagwar,"Ovyagwar,Karnaprayag,Chamoli,Uttarakhand,India"
-5,57,Chamoli,287,Karnaprayag,41313,Matha Manda   (Matha),"Matha Manda   (Matha),Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41313,Matha Manda,"Matha Manda,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41314,Nauti,"Nauti,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41315,Chhatauli,"Chhatauli,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41316,Melyagwar,"Melyagwar,Karnaprayag,Chamoli,Uttarakhand,India"
@@ -1242,7 +1242,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,287,Karnaprayag,41328,Simalt,"Simalt,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41329,Rangaon,"Rangaon,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41330,Barsali,"Barsali,Karnaprayag,Chamoli,Uttarakhand,India"
-5,57,Chamoli,287,Karnaprayag,41331,Nakot Laga Dimar( nakot talla),"Nakot Laga Dimar( nakot talla),Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41331,Nakot Laga Dimar,"Nakot Laga Dimar,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41332,Nakot Malla,"Nakot Malla,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41333,Ali Chak Dimar,"Ali Chak Dimar,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41334,Pipalsera,"Pipalsera,Karnaprayag,Chamoli,Uttarakhand,India"
@@ -1273,7 +1273,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,287,Karnaprayag,41359,Chamola,"Chamola,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41360,Chamali Laga Umatta,"Chamali Laga Umatta,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41361,Umatta,"Umatta,Karnaprayag,Chamoli,Uttarakhand,India"
-5,57,Chamoli,287,Karnaprayag,41362,Kaldu  (Kaleshwar),"Kaldu  (Kaleshwar),Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41362,Kaldu,"Kaldu,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41363,Sirtoli Bairphala,"Sirtoli Bairphala,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41364,Jaikandi,"Jaikandi,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41365,Gwad,"Gwad,Karnaprayag,Chamoli,Uttarakhand,India"
@@ -1375,7 +1375,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,287,Karnaprayag,41461,Top,"Top,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41462,Laloti,"Laloti,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41463,Sem,"Sem,Karnaprayag,Chamoli,Uttarakhand,India"
-5,57,Chamoli,287,Karnaprayag,41464,Dharkot ,"Dharkot,Karnaprayag,Chamoli,Uttarakhand,India"
+5,57,Chamoli,287,Karnaprayag,41464,Dharkot,"Dharkot,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41465,Baniyas,"Baniyas,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41466,Saliyana Malla,"Saliyana Malla,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41467,Thapli,"Thapli,Karnaprayag,Chamoli,Uttarakhand,India"
@@ -1406,7 +1406,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,287,Karnaprayag,41492,Gainthi Beat,"Gainthi Beat,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41493,Kamera Beat,"Kamera Beat,Karnaprayag,Chamoli,Uttarakhand,India"
 5,57,Chamoli,287,Karnaprayag,41494,Sonla van beat,"Sonla van beat,Karnaprayag,Chamoli,Uttarakhand,India"
-5,57,Chamoli,288,Tharali  ,0,Tharali  ,"Tharali,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,0,Tharali,"Tharali,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41495,Bhatiyana,"Bhatiyana,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41496,Bhulkwani Gwad,"Bhulkwani Gwad,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41497,Sunabhi,"Sunabhi,Tharali,Chamoli,Uttarakhand,India"
@@ -1461,7 +1461,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,288,Tharali  ,41546,Suda Laga jhimauri,"Suda Laga jhimauri,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41547,Swan Malla,"Swan Malla,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41548,Buwarkot,"Buwarkot,Tharali,Chamoli,Uttarakhand,India"
-5,57,Chamoli,288,Tharali  ,41549,Nail ,"Nail,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41549,Nail,"Nail,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41550,Dobha,"Dobha,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41551,Arkhanda,"Arkhanda,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41552,Ghatiyana Laga Dungri,"Ghatiyana Laga Dungri,Tharali,Chamoli,Uttarakhand,India"
@@ -1538,7 +1538,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,288,Tharali  ,41623,Jabar Kot,"Jabar Kot,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41624,Dharwaram,"Dharwaram,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41625,Agar Chimni,"Agar Chimni,Tharali,Chamoli,Uttarakhand,India"
-5,57,Chamoli,288,Tharali  ,41626,Bhela ,"Bhela,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41626,Bhela,"Bhela,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41627,Angoth,"Angoth,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41628,Salpur,"Salpur,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41629,Syunta,"Syunta,Tharali,Chamoli,Uttarakhand,India"
@@ -1596,7 +1596,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,288,Tharali  ,41681,Kolpudi,"Kolpudi,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41682,Bursol,"Bursol,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41683,Ratgaon goonth,"Ratgaon goonth,Tharali,Chamoli,Uttarakhand,India"
-5,57,Chamoli,288,Tharali  ,41684, Ratgaon Chak,"Ratgaon Chak,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41684,Ratgaon Chak,"Ratgaon Chak,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41685,Hari Nagar Urf Laital,"Hari Nagar Urf Laital,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41686,Gumad Laga Gerud,"Gumad Laga Gerud,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41687,Bunga,"Bunga,Tharali,Chamoli,Uttarakhand,India"
@@ -1666,7 +1666,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,288,Tharali  ,41751,Losari,"Losari,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41752,Hat Kalyani,"Hat Kalyani,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41753,Atthu,"Atthu,Tharali,Chamoli,Uttarakhand,India"
-5,57,Chamoli,288,Tharali  ,41754,Silkhola Laga Ichchholi  ,"Silkhola Laga Ichchholi,Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41754,Silkhola Laga Ichchholi,"Silkhola Laga Ichchholi,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41755,Kail,"Kail,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41756,Ichchholi,"Ichchholi,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41757,Purna,"Purna,Tharali,Chamoli,Uttarakhand,India"
@@ -1731,7 +1731,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,288,Tharali  ,41816,F-3,"F-3,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41817,F-4,"F-4,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,288,Tharali  ,41818,F-5,"F-5,Tharali,Chamoli,Uttarakhand,India"
-5,57,Chamoli,288,Tharali  ,41819,F-4 (P-2),"F-4 (P-2),Tharali,Chamoli,Uttarakhand,India"
+5,57,Chamoli,288,Tharali  ,41819,F-4,"F-4,Tharali,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,0,Gairsain,"Gairsain,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41820,Bisauna,"Bisauna,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41821,Pungaon,"Pungaon,Gairsain,Chamoli,Uttarakhand,India"
@@ -1763,7 +1763,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,289,Gairsain,41847,Kansuwa,"Kansuwa,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41848,Daramoli,"Daramoli,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41849,Aali Majyari,"Aali Majyari,Gairsain,Chamoli,Uttarakhand,India"
-5,57,Chamoli,289,Gairsain,41850, Patto (Pemtha),"Patto (Pemtha),Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41850,Patto,"Patto,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41851,Nauna,"Nauna,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41852,Miroli,"Miroli,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41853,Malgur,"Malgur,Gairsain,Chamoli,Uttarakhand,India"
@@ -1908,7 +1908,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,289,Gairsain,41992,Khinsar,"Khinsar,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41993,Rangchaura,"Rangchaura,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41994,Hislani,"Hislani,Gairsain,Chamoli,Uttarakhand,India"
-5,57,Chamoli,289,Gairsain,41995,Kalyana malla (Lali Kalyani),"Kalyana malla (Lali Kalyani),Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,41995,Kalyana malla,"Kalyana malla,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41996,Morpani,"Morpani,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41997,Dugara Laga Sahankot,"Dugara Laga Sahankot,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,41998,Bukhara Kheta,"Bukhara Kheta,Gairsain,Chamoli,Uttarakhand,India"
@@ -1937,7 +1937,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,57,Chamoli,289,Gairsain,42021,Devpuri,"Devpuri,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,42022,Nail,"Nail,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,42023,Jaul Chaura Malla,"Jaul Chaura Malla,Gairsain,Chamoli,Uttarakhand,India"
-5,57,Chamoli,289,Gairsain,42024,Dewalgarh ,"Dewalgarh,Gairsain,Chamoli,Uttarakhand,India"
+5,57,Chamoli,289,Gairsain,42024,Dewalgarh,"Dewalgarh,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,42025,Bacchuwa Ban Malla,"Bacchuwa Ban Malla,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,42026,Kalu Bisht Sera,"Kalu Bisht Sera,Gairsain,Chamoli,Uttarakhand,India"
 5,57,Chamoli,289,Gairsain,42027,Kalchunda,"Kalchunda,Gairsain,Chamoli,Uttarakhand,India"
@@ -2098,7 +2098,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,58,Rudraprayag,290,Ukhimath,42180,Jagpura,"Jagpura,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42181,Paw,"Paw,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42182,Kirmoriya,"Kirmoriya,Ukhimath,Rudraprayag,Uttarakhand,India"
-5,58,Rudraprayag,290,Ukhimath,42183,Jamalok ,"Jamalok,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42183,Jamalok,"Jamalok,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42184,Khal,"Khal,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42185,Lwara,"Lwara,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42186,Dewagana,"Dewagana,Ukhimath,Rudraprayag,Uttarakhand,India"
@@ -2176,7 +2176,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,58,Rudraprayag,290,Ukhimath,42258,Pali,"Pali,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42259,Ryasun,"Ryasun,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42260,Dalsingi,"Dalsingi,Ukhimath,Rudraprayag,Uttarakhand,India"
-5,58,Rudraprayag,290,Ukhimath,42261,Korl(Kaushalpur),"Korl(Kaushalpur),Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42261,Korl,"Korl,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42262,Kund,"Kund,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42263,Chandrapuri,"Chandrapuri,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42264,Gawni Chak Bachwar,"Gawni Chak Bachwar,Ukhimath,Rudraprayag,Uttarakhand,India"
@@ -2207,7 +2207,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,58,Rudraprayag,290,Ukhimath,42289,Tondala,"Tondala,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42290,Kala Kot,"Kala Kot,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42291,Dhar,"Dhar,Ukhimath,Rudraprayag,Uttarakhand,India"
-5,58,Rudraprayag,290,Ukhimath,42292,Pillu ,"Pillu,Ukhimath,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,290,Ukhimath,42292,Pillu,"Pillu,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42293,Jahangi,"Jahangi,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42294,Toliyon,"Toliyon,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42295,Tilsari,"Tilsari,Ukhimath,Rudraprayag,Uttarakhand,India"
@@ -2218,8 +2218,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,58,Rudraprayag,290,Ukhimath,42300,F-1,"F-1,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,290,Ukhimath,42301,F-2,"F-2,Ukhimath,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
-",0,"Rudraprayag
-","Rudraprayag,Rudraprayag,Rudraprayag,Uttarakhand,India"
+",0,Rudraprayag,"Rudraprayag,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
 ",42302,Mosar,"Mosar,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
@@ -2811,19 +2810,19 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,58,Rudraprayag,291,"Rudraprayag
 ",42596,F-4,"F-4,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
-",42597,Dob(P-1),"Dob(P-1),Rudraprayag,Rudraprayag,Uttarakhand,India"
+",42597,Dob,"Dob,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
-",42598,Augustmuni - (P-2),"Augustmuni - (P-2),Rudraprayag,Rudraprayag,Uttarakhand,India"
+",42598,Augustmuni -,"Augustmuni -,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
 ",42599,Pokhasari,"Pokhasari,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
-",42600,Dob - (P-2),"Dob - (P-2),Rudraprayag,Rudraprayag,Uttarakhand,India"
+",42600,Dob -,"Dob -,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
-",42601,Kodima - (P-1),"Kodima - (P-1),Rudraprayag,Rudraprayag,Uttarakhand,India"
+",42601,Kodima -,"Kodima -,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
 ",42602,Saeb,"Saeb,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,291,"Rudraprayag
-",42603,Kodima - (P-2),"Kodima - (P-2),Rudraprayag,Rudraprayag,Uttarakhand,India"
+",42603,Kodima -,"Kodima -,Rudraprayag,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,292,Jakholi*,0,Jakholi*,"Jakholi*,Jakholi*,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,292,Jakholi*,42604,Pala Kurali,"Pala Kurali,Jakholi*,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,292,Jakholi*,42605,Uchhana,"Uchhana,Jakholi*,Rudraprayag,Uttarakhand,India"
@@ -2962,7 +2961,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,58,Rudraprayag,292,Jakholi*,42738,Arkhund,"Arkhund,Jakholi*,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,292,Jakholi*,42739,Rayari,"Rayari,Jakholi*,Rudraprayag,Uttarakhand,India"
 5,58,Rudraprayag,292,Jakholi*,42740,Thapala,"Thapala,Jakholi*,Rudraprayag,Uttarakhand,India"
-5,58,Rudraprayag,292,Jakholi*,42741,Agastyamuni-(P-1),"Agastyamuni-(P-1),Jakholi*,Rudraprayag,Uttarakhand,India"
+5,58,Rudraprayag,292,Jakholi*,42741,Agastyamuni-,"Agastyamuni-,Jakholi*,Rudraprayag,Uttarakhand,India"
 5,59,Tehri Garhwal,0,Tehri Garhwal,0,Tehri Garhwal,"Tehri Garhwal,Tehri Garhwal,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,293,Ghansali,0,Ghansali,"Ghansali,Ghansali,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,293,Ghansali,42742,Ghanyur,"Ghanyur,Ghansali,Tehri Garhwal,Uttarakhand,India"
@@ -3260,14 +3259,14 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,59,Tehri Garhwal,293,Ghansali,43034,Kathur Talla,"Kathur Talla,Ghansali,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,293,Ghansali,43035,Bhauna,"Bhauna,Ghansali,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,293,Ghansali,43036,Hadiyana Malla,"Hadiyana Malla,Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43037,Balganga Range (P-1),"Balganga Range (P-1),Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43038,Bhinlgana Range (P-2),"Bhinlgana Range (P-2),Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43039,Bhinlgana Range (P-1),"Bhinlgana Range (P-1),Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43040,Paukhal Range (P-1),"Paukhal Range (P-1),Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43041,Balganga Range (P-2),"Balganga Range (P-2),Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43042,Balganga Range (P-3),"Balganga Range (P-3),Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43043,Paukhal Range (P-2),"Paukhal Range (P-2),Ghansali,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,293,Ghansali,43044,Bhinlgana Range (P-3),"Bhinlgana Range (P-3),Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43037,Balganga Range,"Balganga Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43038,Bhinlgana Range,"Bhinlgana Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43039,Bhinlgana Range,"Bhinlgana Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43040,Paukhal Range,"Paukhal Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43041,Balganga Range,"Balganga Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43042,Balganga Range,"Balganga Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43043,Paukhal Range,"Paukhal Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,293,Ghansali,43044,Bhinlgana Range,"Bhinlgana Range,Ghansali,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,294,Devprayag,0,Devprayag,"Devprayag,Devprayag,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,294,Devprayag,43045,Pholanshi,"Pholanshi,Devprayag,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,294,Devprayag,43046,Nag Chaunda,"Nag Chaunda,Devprayag,Tehri Garhwal,Uttarakhand,India"
@@ -3791,7 +3790,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,59,Tehri Garhwal,295,Pratapnagar,43563,Burant,"Burant,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,295,Pratapnagar,43564,Nelda,"Nelda,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,295,Pratapnagar,43565,Nargarh,"Nargarh,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,295,Pratapnagar,43566,Bhauniyara (Dowal moli),"Bhauniyara (Dowal moli),Pratapnagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,295,Pratapnagar,43566,Bhauniyara,"Bhauniyara,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,295,Pratapnagar,43567,Pachri,"Pachri,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,295,Pratapnagar,43568,Bhasli,"Bhasli,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,295,Pratapnagar,43569,Tuniyar,"Tuniyar,Pratapnagar,Tehri Garhwal,Uttarakhand,India"
@@ -3944,8 +3943,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,59,Tehri Garhwal,296,Jakhnidhar,43715,Kothiya,"Kothiya,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,296,Jakhnidhar,43716,Koti-Tyunsa,"Koti-Tyunsa,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,296,Jakhnidhar,43717,Raunthi,"Raunthi,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,296,Jakhnidhar,43718,Tehri Range (P-2),"Tehri Range (P-2),Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,297,Tehri   ,0,Tehri   ,"Tehri,Tehri,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,296,Jakhnidhar,43718,Tehri Range,"Tehri Range,Jakhnidhar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,297,Tehri   ,0,Tehri,"Tehri,Tehri,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,297,Tehri   ,43719,Katkhet,"Katkhet,Tehri,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,297,Tehri   ,43720,Kyari,"Kyari,Tehri,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,297,Tehri   ,43721,Andhiyari Lagga Chapra,"Andhiyari Lagga Chapra,Tehri,Tehri Garhwal,Uttarakhand,India"
@@ -4325,7 +4324,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,59,Tehri Garhwal,298,Dhanaulti,44094,Devan,"Devan,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44095,Nakot may bhadrisera,"Nakot may bhadrisera,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44096,Saindul,"Saindul,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,298,Dhanaulti,44097,Tingari ,"Tingari,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44097,Tingari,"Tingari,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44098,Ghiya Koti,"Ghiya Koti,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44099,Khaskoti,"Khaskoti,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44100,Baman Gaon,"Baman Gaon,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
@@ -4415,7 +4414,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,59,Tehri Garhwal,298,Dhanaulti,44184,Ran Gaon,"Ran Gaon,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44185,Siya Kempti,"Siya Kempti,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44186,Thalwal Gaon,"Thalwal Gaon,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,298,Dhanaulti,44187,Nawaridhar (Talogi),"Nawaridhar (Talogi),Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44187,Nawaridhar,"Nawaridhar,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44188,Dhar Gaon,"Dhar Gaon,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44189,Nautha,"Nautha,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44190,Ghatudhar,"Ghatudhar,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
@@ -4573,7 +4572,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,59,Tehri Garhwal,298,Dhanaulti,44342,Jaunpur Range,"Jaunpur Range,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44343,Kempty Range,"Kempty Range,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44344,Tehri  Range,"Tehri  Range,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,298,Dhanaulti,44345,Kempty Range (P-2),"Kempty Range (P-2),Dhanaulti,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,298,Dhanaulti,44345,Kempty Range,"Kempty Range,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,298,Dhanaulti,44346,Saklana Range,"Saklana Range,Dhanaulti,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,299,Narendranagar,0,Narendra Nagar,"Narendra Nagar,Narendranagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,299,Narendranagar,44347,Dandeli,"Dandeli,Narendranagar,Tehri Garhwal,Uttarakhand,India"
@@ -4833,9 +4832,9 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,59,Tehri Garhwal,299,Narendranagar,44601,Bhadani Khuri,"Bhadani Khuri,Narendranagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,299,Narendranagar,44602,Shivpuri Range,"Shivpuri Range,Narendranagar,Tehri Garhwal,Uttarakhand,India"
 5,59,Tehri Garhwal,299,Narendranagar,44603,Sakalana,"Sakalana,Narendranagar,Tehri Garhwal,Uttarakhand,India"
-5,59,Tehri Garhwal,299,Narendranagar,44604,Dhaluwala (CT),"Dhaluwala (CT),Narendranagar,Tehri Garhwal,Uttarakhand,India"
+5,59,Tehri Garhwal,299,Narendranagar,44604,Dhaluwala,"Dhaluwala,Narendranagar,Tehri Garhwal,Uttarakhand,India"
 5,60,Dehradun,0,Dehradun,0,Dehradun,"Dehradun,Dehradun,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,0,Chakrata ,"Chakrata,Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,0,Chakrata,"Chakrata,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44605,Luhari,"Luhari,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44606,Jadi,"Jadi,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44607,Mungad,"Mungad,Chakrata,Dehradun,Uttarakhand,India"
@@ -4846,19 +4845,19 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,300,Chakrata ,44612,Daduwa,"Daduwa,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44613,Kitrauli,"Kitrauli,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44614,Sunoda,"Sunoda,Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44615,Kota (Kuwanu),"Kota (Kuwanu),Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44615,Kota,"Kota,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44616,Bhoopau,"Bhoopau,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44617,Matad,"Matad,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44618,Daudha,"Daudha,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44619,Gamari,"Gamari,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44620,Gawaila,"Gawaila,Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44621,Maghgaon (Kwanu),"Maghgaon (Kwanu),Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44622,Mailoth(kuwanu),"Mailoth(kuwanu),Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44621,Maghgaon,"Maghgaon,Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44622,Mailoth,"Mailoth,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44623,Dunawa,"Dunawa,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44624,Malaitha,"Malaitha,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44625,Kandar,"Kandar,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44626,Baniyana,"Baniyana,Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44627,Majhgaon(Duwar),"Majhgaon(Duwar),Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44627,Majhgaon,"Majhgaon,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44628,Mendal,"Mendal,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44629,Sawara,"Sawara,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44630,Indroli,"Indroli,Chakrata,Dehradun,Uttarakhand,India"
@@ -4885,8 +4884,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,300,Chakrata ,44651,Shirwa,"Shirwa,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44652,Dabla,"Dabla,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44653,Jashta,"Jashta,Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44654,Kota(Taplad),"Kota(Taplad),Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44655,Kharwi(Khabou),"Kharwi(Khabou),Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44654,Kota,"Kota,Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44655,Kharwi,"Kharwi,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44656,Mahpavata,"Mahpavata,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44657,Bhaimoo,"Bhaimoo,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44658,Kolaha,"Kolaha,Chakrata,Dehradun,Uttarakhand,India"
@@ -4898,7 +4897,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,300,Chakrata ,44664,Ghananta,"Ghananta,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44665,Derio,"Derio,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44666,Nada,"Nada,Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44667,Lawari(datruta),"Lawari(datruta),Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44667,Lawari,"Lawari,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44668,Bhatar Chhautar,"Bhatar Chhautar,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44669,Chhultar,"Chhultar,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44670,Kondoi Dondar,"Kondoi Dondar,Chakrata,Dehradun,Uttarakhand,India"
@@ -4911,7 +4910,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,300,Chakrata ,44677,Myudha,"Myudha,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44678,Kunna,"Kunna,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44679,Lorli,"Lorli,Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44680,Kothi (Bamtad),"Kothi (Bamtad),Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44680,Kothi,"Kothi,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44681,Astad,"Astad,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44682,Hoda,"Hoda,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44683,Mangrauli,"Mangrauli,Chakrata,Dehradun,Uttarakhand,India"
@@ -4920,7 +4919,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,300,Chakrata ,44686,Thana,"Thana,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44687,Tungra,"Tungra,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44688,Koruwa,"Koruwa,Chakrata,Dehradun,Uttarakhand,India"
-5,60,Dehradun,300,Chakrata ,44689,Koti (Bamtad),"Koti (Bamtad),Chakrata,Dehradun,Uttarakhand,India"
+5,60,Dehradun,300,Chakrata ,44689,Koti,"Koti,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44690,Bisoi,"Bisoi,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44691,Birmau,"Birmau,Chakrata,Dehradun,Uttarakhand,India"
 5,60,Dehradun,300,Chakrata ,44692,Rikhar,"Rikhar,Chakrata,Dehradun,Uttarakhand,India"
@@ -4960,7 +4959,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,301,Tyuni,44725,Hanol,"Hanol,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44726,Chatra,"Chatra,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44727,Ninus,"Ninus,Tyuni,Dehradun,Uttarakhand,India"
-5,60,Dehradun,301,Tyuni,44728,Koti (Babar),"Koti (Babar),Tyuni,Dehradun,Uttarakhand,India"
+5,60,Dehradun,301,Tyuni,44728,Koti,"Koti,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44729,Kanda,"Kanda,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44730,Chhumara,"Chhumara,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44731,Raigi,"Raigi,Tyuni,Dehradun,Uttarakhand,India"
@@ -5021,7 +5020,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,301,Tyuni,44786,Asoi,"Asoi,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44787,Rajanu,"Rajanu,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44788,Hartar Santar,"Hartar Santar,Tyuni,Dehradun,Uttarakhand,India"
-5,60,Dehradun,301,Tyuni,44789,Koti (Kanasar),"Koti (Kanasar),Tyuni,Dehradun,Uttarakhand,India"
+5,60,Dehradun,301,Tyuni,44789,Koti,"Koti,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44790,Mangtar,"Mangtar,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44791,Masak,"Masak,Tyuni,Dehradun,Uttarakhand,India"
 5,60,Dehradun,301,Tyuni,44792,Tuna,"Tuna,Tyuni,Dehradun,Uttarakhand,India"
@@ -5035,7 +5034,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,302,Kalsi,44799,Ratar,"Ratar,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44800,Kunna,"Kunna,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44801,Dagura,"Dagura,Kalsi,Dehradun,Uttarakhand,India"
-5,60,Dehradun,302,Kalsi,44802,Chhau(Saily),"Chhau(Saily),Kalsi,Dehradun,Uttarakhand,India"
+5,60,Dehradun,302,Kalsi,44802,Chhau,"Chhau,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44803,Budula,"Budula,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44804,Marloh Khokta,"Marloh Khokta,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44805,Sawai,"Sawai,Kalsi,Dehradun,Uttarakhand,India"
@@ -5079,7 +5078,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,302,Kalsi,44843,Bohari,"Bohari,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44844,Thatyou,"Thatyou,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44845,Phatyou,"Phatyou,Kalsi,Dehradun,Uttarakhand,India"
-5,60,Dehradun,302,Kalsi,44846,Pata(Samalta),"Pata(Samalta),Kalsi,Dehradun,Uttarakhand,India"
+5,60,Dehradun,302,Kalsi,44846,Pata,"Pata,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44847,Kurouli,"Kurouli,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44848,Nevi,"Nevi,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44849,Khatasa,"Khatasa,Kalsi,Dehradun,Uttarakhand,India"
@@ -5110,7 +5109,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,302,Kalsi,44874,Khoi,"Khoi,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44875,Chandau,"Chandau,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44876,Malhau,"Malhau,Kalsi,Dehradun,Uttarakhand,India"
-5,60,Dehradun,302,Kalsi,44877,Sainj (Chandau),"Sainj (Chandau),Kalsi,Dehradun,Uttarakhand,India"
+5,60,Dehradun,302,Kalsi,44877,Sainj,"Sainj,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44878,Kharaya,"Kharaya,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44879,Ubhrau,"Ubhrau,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44880,Mandauli,"Mandauli,Kalsi,Dehradun,Uttarakhand,India"
@@ -5131,7 +5130,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,302,Kalsi,44895,Desau,"Desau,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44896,Jadana,"Jadana,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44897,Dimau,"Dimau,Kalsi,Dehradun,Uttarakhand,India"
-5,60,Dehradun,302,Kalsi,44898,Dau(Bisahal),"Dau(Bisahal),Kalsi,Dehradun,Uttarakhand,India"
+5,60,Dehradun,302,Kalsi,44898,Dau,"Dau,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44899,Kherwa,"Kherwa,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44900,Atliyo,"Atliyo,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44901,Rupau,"Rupau,Kalsi,Dehradun,Uttarakhand,India"
@@ -5175,7 +5174,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,302,Kalsi,44939,Basan,"Basan,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44940,Loharna,"Loharna,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44941,Khadin,"Khadin,Kalsi,Dehradun,Uttarakhand,India"
-5,60,Dehradun,302,Kalsi,44942,Lohari(Phartad),"Lohari(Phartad),Kalsi,Dehradun,Uttarakhand,India"
+5,60,Dehradun,302,Kalsi,44942,Lohari,"Lohari,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44943,Dhiroi,"Dhiroi,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44944,Singouta,"Singouta,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44945,Khari,"Khari,Kalsi,Dehradun,Uttarakhand,India"
@@ -5198,7 +5197,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,302,Kalsi,44962,Gaski,"Gaski,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44963,Bago,"Bago,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44964,Bihar,"Bihar,Kalsi,Dehradun,Uttarakhand,India"
-5,60,Dehradun,302,Kalsi,44965,Lohari(Lakhwar),"Lohari(Lakhwar),Kalsi,Dehradun,Uttarakhand,India"
+5,60,Dehradun,302,Kalsi,44965,Lohari,"Lohari,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44966,Jakhnoj Bhisto,"Jakhnoj Bhisto,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44967,Dhanpau,"Dhanpau,Kalsi,Dehradun,Uttarakhand,India"
 5,60,Dehradun,302,Kalsi,44968,River Range,"River Range,Kalsi,Dehradun,Uttarakhand,India"
@@ -5228,11 +5227,11 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,303,Vikasnagar,44991,Mandi Gang Mewa,"Mandi Gang Mewa,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,44992,Fatehpur,"Fatehpur,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,44993,Bentwali Mandi,"Bentwali Mandi,Vikasnagar,Dehradun,Uttarakhand,India"
-5,60,Dehradun,303,Vikasnagar,44994,Dhakrani(Dehat),"Dhakrani(Dehat),Vikasnagar,Dehradun,Uttarakhand,India"
+5,60,Dehradun,303,Vikasnagar,44994,Dhakrani,"Dhakrani,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,44995,Mirzapur Urf Dhalipur,"Mirzapur Urf Dhalipur,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,44996,Lakhanwala Nevat,"Lakhanwala Nevat,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,44997,Katapatthar,"Katapatthar,Vikasnagar,Dehradun,Uttarakhand,India"
-5,60,Dehradun,303,Vikasnagar,44998, n,"n,Vikasnagar,Dehradun,Uttarakhand,India"
+5,60,Dehradun,303,Vikasnagar,44998,n,"n,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,44999,Papdiyan,"Papdiyan,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,45000,Bhaler,"Bhaler,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,45001,Madarsu,"Madarsu,Vikasnagar,Dehradun,Uttarakhand,India"
@@ -5344,11 +5343,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,303,Vikasnagar,45107,Langha Range,"Langha Range,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,45108,Jhajra Range,"Jhajra Range,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,303,Vikasnagar,45109,Malhan Range,"Malhan Range,Vikasnagar,Dehradun,Uttarakhand,India"
-5,60,Dehradun,303,Vikasnagar,45110,Jiwangarh (CT),"Jiwangarh (CT),Vikasnagar,Dehradun,Uttarakhand,India"
-5,60,Dehradun,303,Vikasnagar,45111,Central Hope Town (CT),"Central Hope Town (CT),Vikasnagar,Dehradun,Uttarakhand,India"
+5,60,Dehradun,303,Vikasnagar,45110,Jiwangarh,"Jiwangarh,Vikasnagar,Dehradun,Uttarakhand,India"
+5,60,Dehradun,303,Vikasnagar,45111,Central Hope Town,"Central Hope Town,Vikasnagar,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
-",0,"Dehradun 
-","Dehradun,Dehradun,Dehradun,Uttarakhand,India"
+",0,Dehradun,"Dehradun,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
 ",45112,Rikhauli,"Rikhauli,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
@@ -5646,7 +5644,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,304,"Dehradun 
 ",45259,Daiswala,"Daiswala,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
-",45260,Mussorie Range (P-2),"Mussorie Range (P-2),Dehradun,Dehradun,Uttarakhand,India"
+",45260,Mussorie Range,"Mussorie Range,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
 ",45261,Raipur Range,"Raipur Range,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
@@ -5660,18 +5658,17 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,304,"Dehradun 
 ",45266,Ramgarh Range,"Ramgarh Range,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
-",45267,Raipur (CT),"Raipur (CT),Dehradun,Dehradun,Uttarakhand,India"
+",45267,Raipur,"Raipur,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
-",45268,Natthan Pur (CT),"Natthan Pur (CT),Dehradun,Dehradun,Uttarakhand,India"
+",45268,Natthan Pur,"Natthan Pur,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
-",45269,Mehu Wala Mafi (CT),"Mehu Wala Mafi (CT),Dehradun,Dehradun,Uttarakhand,India"
+",45269,Mehu Wala Mafi,"Mehu Wala Mafi,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
-",45270,Natthuwa Wala (CT),"Natthuwa Wala (CT),Dehradun,Dehradun,Uttarakhand,India"
+",45270,Natthuwa Wala,"Natthuwa Wala,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,304,"Dehradun 
-",45271,Bharuwal Grant (OG),"Bharuwal Grant (OG),Dehradun,Dehradun,Uttarakhand,India"
+",45271,Bharuwal Grant,"Bharuwal Grant,Dehradun,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
-",0,"Rishikesh
-","Rishikesh,Rishikesh,Dehradun,Uttarakhand,India"
+",0,Rishikesh,"Rishikesh,Rishikesh,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
 ",45272,Landwakot,"Landwakot,Rishikesh,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
@@ -5849,15 +5846,15 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,60,Dehradun,305,"Rishikesh
 ",45359,Thano Range,"Thano Range,Rishikesh,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
-",45360,Rishikesh (CT),"Rishikesh (CT),Rishikesh,Dehradun,Uttarakhand,India"
+",45360,Rishikesh,"Rishikesh,Rishikesh,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
-",45361,Gumaniwala (CT),"Gumaniwala (CT),Rishikesh,Dehradun,Uttarakhand,India"
+",45361,Gumaniwala,"Gumaniwala,Rishikesh,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
-",45362,Kharak mafi (CT),"Kharak mafi (CT),Rishikesh,Dehradun,Uttarakhand,India"
+",45362,Kharak mafi,"Kharak mafi,Rishikesh,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
-",45363,Pratitnagar (CT),"Pratitnagar (CT),Rishikesh,Dehradun,Uttarakhand,India"
+",45363,Pratitnagar,"Pratitnagar,Rishikesh,Dehradun,Uttarakhand,India"
 5,60,Dehradun,305,"Rishikesh
-",45364,Haripur Kalan (CT),"Haripur Kalan (CT),Rishikesh,Dehradun,Uttarakhand,India"
+",45364,Haripur Kalan,"Haripur Kalan,Rishikesh,Dehradun,Uttarakhand,India"
 5,61,Garhwal,0,Garhwal,0,Garhwal,"Garhwal,Garhwal,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,0,Srinagar,"Srinagar,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45365,Rauli,"Rauli,Srinagar,Garhwal,Uttarakhand,India"
@@ -5881,7 +5878,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,306,Srinagar,45383,Shem Lagga Margoon,"Shem Lagga Margoon,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45384,Kolyan Khil,"Kolyan Khil,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45385,Swili Lagga Daul kandi,"Swili Lagga Daul kandi,Srinagar,Garhwal,Uttarakhand,India"
-5,61,Garhwal,306,Srinagar,45386,Pali ,"Pali,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45386,Pali,"Pali,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45387,Dhanchanda,"Dhanchanda,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45388,Nakot,"Nakot,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45389,Bel Kandi,"Bel Kandi,Srinagar,Garhwal,Uttarakhand,India"
@@ -6012,7 +6009,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,306,Srinagar,45514,Odala,"Odala,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45515,Kanda Lagga Rampur,"Kanda Lagga Rampur,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45516,Badalpur,"Badalpur,Srinagar,Garhwal,Uttarakhand,India"
-5,61,Garhwal,306,Srinagar,45517,Dawal Garh ,"Dawal Garh,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45517,Dawal Garh,"Dawal Garh,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45518,Bughani,"Bughani,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45519,Malettha,"Malettha,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45520,Narayan Khil,"Narayan Khil,Srinagar,Garhwal,Uttarakhand,India"
@@ -6041,7 +6038,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,306,Srinagar,45543,Dugri Panth,"Dugri Panth,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45544,Dikholiya,"Dikholiya,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45545,Chopda,"Chopda,Srinagar,Garhwal,Uttarakhand,India"
-5,61,Garhwal,306,Srinagar,45546,Bagwan ,"Bagwan,Srinagar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,306,Srinagar,45546,Bagwan,"Bagwan,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45547,Haidi,"Haidi,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45548,Arkhund,"Arkhund,Srinagar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,306,Srinagar,45549,Gostu,"Gostu,Srinagar,Garhwal,Uttarakhand,India"
@@ -6432,7 +6429,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,307,Pauri,45933,Garhlinda,"Garhlinda,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,45934,Butol Gaon,"Butol Gaon,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,45935,Rithooli,"Rithooli,Pauri,Garhwal,Uttarakhand,India"
-5,61,Garhwal,307,Pauri,45936,Sagwan Gaon (Lagga Mirchoda),"Sagwan Gaon (Lagga Mirchoda),Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,45936,Sagwan Gaon,"Sagwan Gaon,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,45937,Saknoli,"Saknoli,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,45938,Goran,"Goran,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,45939,Gund,"Gund,Pauri,Garhwal,Uttarakhand,India"
@@ -6577,7 +6574,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,307,Pauri,46078,Lawali,"Lawali,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46079,Praniya Walla,"Praniya Walla,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46080,Manda,"Manda,Pauri,Garhwal,Uttarakhand,India"
-5,61,Garhwal,307,Pauri,46081,Baita(Bhaita),"Baita(Bhaita),Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46081,Baita,"Baita,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46082,Pawo Talla,"Pawo Talla,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46083,Pisoli,"Pisoli,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46084,Kwali,"Kwali,Pauri,Garhwal,Uttarakhand,India"
@@ -6921,8 +6918,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,307,Pauri,46422,Pinani,"Pinani,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46423,Gabroli,"Gabroli,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46424,Nougarh,"Nougarh,Pauri,Garhwal,Uttarakhand,India"
-5,61,Garhwal,307,Pauri,46425,F-1 (P-1),"F-1 (P-1),Pauri,Garhwal,Uttarakhand,India"
-5,61,Garhwal,307,Pauri,46426,F-1 (P-2),"F-1 (P-2),Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46425,F-1,"F-1,Pauri,Garhwal,Uttarakhand,India"
+5,61,Garhwal,307,Pauri,46426,F-1,"F-1,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46427,Khirsu Range,"Khirsu Range,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,307,Pauri,46428,Amoli Range,"Amoli Range,Pauri,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,0,Thailisain,"Thailisain,THALISAIN,Garhwal,Uttarakhand,India"
@@ -6966,7 +6963,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,308,THALISAIN,46466,Khola Laga Kandaye,"Khola Laga Kandaye,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46467,Talsera,"Talsera,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46468,Paligonth Or Palli,"Paligonth Or Palli,THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46469,Akhara(Akswara),"Akhara(Akswara),THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46469,Akhara,"Akhara,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46470,Kandoya Gonth Or Kandai,"Kandoya Gonth Or Kandai,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46471,Maile,"Maile,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46472,Markhola,"Markhola,THALISAIN,Garhwal,Uttarakhand,India"
@@ -7090,7 +7087,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,308,THALISAIN,46590,Massou,"Massou,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46591,Raniyas,"Raniyas,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46592,Kaflaikh,"Kaflaikh,THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46593,Chanda(Chaunda),"Chanda(Chaunda),THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46593,Chanda,"Chanda,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46594,Kimwadi,"Kimwadi,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46595,Toli Devliya Or Tolilaga Kanay,"Toli Devliya Or Tolilaga Kanay,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46596,Pukalkot Or Pipal Kot,"Pukalkot Or Pipal Kot,THALISAIN,Garhwal,Uttarakhand,India"
@@ -7188,7 +7185,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,308,THALISAIN,46688,Gajakajhala,"Gajakajhala,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46689,Gurfali,"Gurfali,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46690,Magiyokhil Or Majyadi Khil,"Magiyokhil Or Majyadi Khil,THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46691,Lakhaid Gaon(Lamb Kheda Gaon),"Lakhaid Gaon(Lamb Kheda Gaon),THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46691,Lakhaid Gaon,"Lakhaid Gaon,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46692,Dhound,"Dhound,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46693,Gadoli,"Gadoli,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46694,Setoli,"Setoli,THALISAIN,Garhwal,Uttarakhand,India"
@@ -7256,7 +7253,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,308,THALISAIN,46756,Syunsi,"Syunsi,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46757,Nawasu Or Banasu,"Nawasu Or Banasu,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46758,Degoli,"Degoli,THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46759,Kot (Chyur Kot),"Kot (Chyur Kot),THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46759,Kot,"Kot,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46760,Bamradi,"Bamradi,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46761,Magro Malla,"Magro Malla,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46762,Sila Malla,"Sila Malla,THALISAIN,Garhwal,Uttarakhand,India"
@@ -7343,7 +7340,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,308,THALISAIN,46843,Jhalo,"Jhalo,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46844,Matkund,"Matkund,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46845,Badol Gaon,"Badol Gaon,THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46846,Nawan Chowk (Nau),"Nawan Chowk (Nau),THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46846,Nawan Chowk,"Nawan Chowk,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46847,Nagni,"Nagni,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46848,Silwani,"Silwani,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46849,Sugriya Bara,"Sugriya Bara,THALISAIN,Garhwal,Uttarakhand,India"
@@ -7361,10 +7358,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,308,THALISAIN,46861,Tandola,"Tandola,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46862,Sili Talli,"Sili Talli,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46863,Sili Malli,"Sili Malli,THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46864,Ff-2(P-1),"Ff-2(P-1),THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46865,Ff-2(P-2),"Ff-2(P-2),THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46866,Ff-2(P-3),"Ff-2(P-3),THALISAIN,Garhwal,Uttarakhand,India"
-5,61,Garhwal,308,THALISAIN,46867,Ff-2(P-3),"Ff-2(P-3),THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46864,Ff-2,"Ff-2,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46865,Ff-2,"Ff-2,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46866,Ff-2,"Ff-2,THALISAIN,Garhwal,Uttarakhand,India"
+5,61,Garhwal,308,THALISAIN,46867,Ff-2,"Ff-2,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,308,THALISAIN,46868,Ff-6,"Ff-6,THALISAIN,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,0,Dhoomakot,"Dhoomakot,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,46869,Timli,"Timli,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -7403,7 +7400,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,309,Dhoomakot,46902,Panas Talla,"Panas Talla,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,46903,Dang,"Dang,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,46904,Jamari,"Jamari,Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,46905,Chluna(Chyatur Lagga Zamri),"Chluna(Chyatur Lagga Zamri),Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,46905,Chluna,"Chluna,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,46906,Kamrai,"Kamrai,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,46907,Thapla Walla,"Thapla Walla,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,46908,Badadanda Dhunkapdi,"Badadanda Dhunkapdi,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -7539,7 +7536,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,309,Dhoomakot,47038,Phadkandae,"Phadkandae,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47039,Dudera,"Dudera,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47040,Salana,"Salana,Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,47041,Matiyar(Matera Lagga Chaun),"Matiyar(Matera Lagga Chaun),Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47041,Matiyar,"Matiyar,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47042,Bhoun,"Bhoun,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47043,Bhopati,"Bhopati,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47044,Goura,"Goura,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -7560,7 +7557,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,309,Dhoomakot,47059,Abola Gunth,"Abola Gunth,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47060,Mangronath Gunth,"Mangronath Gunth,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47061,Dumtali Sar,"Dumtali Sar,Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,47062,Cherehurn Kholi(Churn Kholi),"Cherehurn Kholi(Churn Kholi),Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47062,Cherehurn Kholi,"Cherehurn Kholi,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47063,Cheremaj Khola,"Cheremaj Khola,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47064,Cheresukel Dhar,"Cheresukel Dhar,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47065,Cherebadol Khola,"Cherebadol Khola,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -7625,7 +7622,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,309,Dhoomakot,47124,Berhat Palla,"Berhat Palla,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47125,Ranchhet Moxen,"Ranchhet Moxen,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47126,Moxenmansingh,"Moxenmansingh,Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,47127,Mangeri Malli(Palli),"Mangeri Malli(Palli),Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47127,Mangeri Malli,"Mangeri Malli,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47128,Mangeri Talli,"Mangeri Talli,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47129,Kamanda Walla,"Kamanda Walla,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47130,Devchuli Palli,"Devchuli Palli,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -7654,7 +7651,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,309,Dhoomakot,47153,Bakroti,"Bakroti,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47154,Baseri,"Baseri,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47155,Ghiroli,"Ghiroli,Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,47156,Gumon Jyun (Jamon),"Gumon Jyun (Jamon),Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47156,Gumon Jyun,"Gumon Jyun,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47157,Mandiyar Gaon,"Mandiyar Gaon,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47158,Khyundai Malli,"Khyundai Malli,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47159,Khyundai Bichli,"Khyundai Bichli,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -7670,8 +7667,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,309,Dhoomakot,47169,Basoli Sera And Rauderi Chhoti,"Basoli Sera And Rauderi Chhoti,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47170,Rouderi Bari,"Rouderi Bari,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47171,Upgaon Talla,"Upgaon Talla,Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,47172,Chilaun Talla(Palla),"Chilaun Talla(Palla),Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,47173,Chilaun Walla(Malla),"Chilaun Walla(Malla),Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47172,Chilaun Talla,"Chilaun Talla,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47173,Chilaun Walla,"Chilaun Walla,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47174,Kali Lango,"Kali Lango,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47175,Mehentke Bakhel,"Mehentke Bakhel,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47176,Dhyani Bakhal,"Dhyani Bakhal,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -7712,7 +7709,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,309,Dhoomakot,47211,Koddhar,"Koddhar,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47212,Tunisera,"Tunisera,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47213,Pangunth Or Pand,"Pangunth Or Pand,Dhoomakot,Garhwal,Uttarakhand,India"
-5,61,Garhwal,309,Dhoomakot,47214,Basayal Lagga Jharahgul ,"Basayal Lagga Jharahgul,Dhoomakot,Garhwal,Uttarakhand,India"
+5,61,Garhwal,309,Dhoomakot,47214,Basayal Lagga Jharahgul,"Basayal Lagga Jharahgul,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47215,Baghori Kumbisan,"Baghori Kumbisan,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47216,Kalakhand,"Kalakhand,Dhoomakot,Garhwal,Uttarakhand,India"
 5,61,Garhwal,309,Dhoomakot,47217,Deema Range,"Deema Range,Dhoomakot,Garhwal,Uttarakhand,India"
@@ -8490,7 +8487,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,311,Satpuli,47987,Basdang,"Basdang,Satpuli,Garhwal,Uttarakhand,India"
 5,61,Garhwal,311,Satpuli,47988,Jaikot,"Jaikot,Satpuli,Garhwal,Uttarakhand,India"
 5,61,Garhwal,311,Satpuli,47989,Bhalgawn Range,"Bhalgawn Range,Satpuli,Garhwal,Uttarakhand,India"
-5,61,Garhwal,311,Satpuli,47990,Bhalgawn Range (P-2),"Bhalgawn Range (P-2),Satpuli,Garhwal,Uttarakhand,India"
+5,61,Garhwal,311,Satpuli,47990,Bhalgawn Range,"Bhalgawn Range,Satpuli,Garhwal,Uttarakhand,India"
 5,61,Garhwal,312,Chaubattakhal,0,Chaubatta Khal,"Chaubatta Khal,Chaubattakhal,Garhwal,Uttarakhand,India"
 5,61,Garhwal,312,Chaubattakhal,47991,Sasaun,"Sasaun,Chaubattakhal,Garhwal,Uttarakhand,India"
 5,61,Garhwal,312,Chaubattakhal,47992,Khandyun,"Khandyun,Chaubattakhal,Garhwal,Uttarakhand,India"
@@ -8784,8 +8781,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,312,Chaubattakhal,48280,Ameli Range,"Ameli Range,Chaubattakhal,Garhwal,Uttarakhand,India"
 5,61,Garhwal,312,Chaubattakhal,48281,Deogiri Range,"Deogiri Range,Chaubattakhal,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",0,"Kotdwara
-","Kotdwara,Kotdwara,Garhwal,Uttarakhand,India"
+",0,Kotdwara,"Kotdwara,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
 ",48282,Amari,"Amari,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
@@ -9175,7 +9171,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,313,"Kotdwara
 ",48475,Mahar Gaon,"Mahar Gaon,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48476,Bhel Sarda ,"Bhel Sarda,Kotdwara,Garhwal,Uttarakhand,India"
+",48476,Bhel Sarda,"Bhel Sarda,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
 ",48477,Amsaur,"Amsaur,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
@@ -9269,7 +9265,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,313,"Kotdwara
 ",48522,Godichoti,"Godichoti,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48523,Aeta (Atta),"Aeta (Atta),Kotdwara,Garhwal,Uttarakhand,India"
+",48523,Aeta,"Aeta,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
 ",48524,Udaya Rampur Nayabad,"Udaya Rampur Nayabad,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
@@ -9399,29 +9395,29 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,313,"Kotdwara
 ",48587,Koriya,"Koriya,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48588,Saneh (Talli),"Saneh (Talli),Kotdwara,Garhwal,Uttarakhand,India"
+",48588,Saneh,"Saneh,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48589,Saneh (Malli),"Saneh (Malli),Kotdwara,Garhwal,Uttarakhand,India"
+",48589,Saneh,"Saneh,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
 ",48590,Kotridhank,"Kotridhank,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48591,Kalabad (Giwai Srot),"Kalabad (Giwai Srot),Kotdwara,Garhwal,Uttarakhand,India"
+",48591,Kalabad,"Kalabad,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
 ",48592,Kotdwara Range,"Kotdwara Range,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48593,Dugadda Range (P-1),"Dugadda Range (P-1),Kotdwara,Garhwal,Uttarakhand,India"
+",48593,Dugadda Range,"Dugadda Range,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48594,Dugadda Range (P-2),"Dugadda Range (P-2),Kotdwara,Garhwal,Uttarakhand,India"
+",48594,Dugadda Range,"Dugadda Range,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48595,Sona Nadi Range (P-1),"Sona Nadi Range (P-1),Kotdwara,Garhwal,Uttarakhand,India"
+",48595,Sona Nadi Range,"Sona Nadi Range,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48596,Sona Nadi Range (P-2),"Sona Nadi Range (P-2),Kotdwara,Garhwal,Uttarakhand,India"
+",48596,Sona Nadi Range,"Sona Nadi Range,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48597,Padampur Sukhran (CT),"Padampur Sukhran (CT),Kotdwara,Garhwal,Uttarakhand,India"
+",48597,Padampur Sukhran,"Padampur Sukhran,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48598,Kashirampur (CT),"Kashirampur (CT),Kotdwara,Garhwal,Uttarakhand,India"
+",48598,Kashirampur,"Kashirampur,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,313,"Kotdwara
-",48599,Manpur (OG),"Manpur (OG),Kotdwara,Garhwal,Uttarakhand,India"
+",48599,Manpur,"Manpur,Kotdwara,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,0,Yamkeshwar,"Yamkeshwar,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48600,Haldogi,"Haldogi,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48601,Patna,"Patna,Yamkeshwar,Garhwal,Uttarakhand,India"
@@ -9571,8 +9567,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,314,Yamkeshwar,48745,Raina Badi,"Raina Badi,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48746,Pundoli Sera,"Pundoli Sera,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48747,Majera,"Majera,Yamkeshwar,Garhwal,Uttarakhand,India"
-5,61,Garhwal,314,Yamkeshwar,48748,Badoli (Bari),"Badoli (Bari),Yamkeshwar,Garhwal,Uttarakhand,India"
-5,61,Garhwal,314,Yamkeshwar,48749,Badoli(Choti),"Badoli(Choti),Yamkeshwar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48748,Badoli,"Badoli,Yamkeshwar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48749,Badoli,"Badoli,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48750,Thunda,"Thunda,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48751,Awai,"Awai,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48752,Gundi Walli,"Gundi Walli,Yamkeshwar,Garhwal,Uttarakhand,India"
@@ -9664,7 +9660,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,61,Garhwal,314,Yamkeshwar,48838,Tachala,"Tachala,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48839,Jogiyana Palla Goonth,"Jogiyana Palla Goonth,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,61,Garhwal,314,Yamkeshwar,48840,F-1,"F-1,Yamkeshwar,Garhwal,Uttarakhand,India"
-5,61,Garhwal,314,Yamkeshwar,48841,Jonk (CT),"Jonk (CT),Yamkeshwar,Garhwal,Uttarakhand,India"
+5,61,Garhwal,314,Yamkeshwar,48841,Jonk,"Jonk,Yamkeshwar,Garhwal,Uttarakhand,India"
 5,62,Pithoragarh,0,Pithoragarh,0,Pithoragarh,"Pithoragarh,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,315,Munsiari,0,Munsiari,"Munsiari,Munsiari,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,315,Munsiari,48842,Meelam,"Meelam,Munsiari,Pithoragarh,Uttarakhand,India"
@@ -9972,8 +9968,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,316,Dharchula,49143,Kimkhola,"Kimkhola,Dharchula,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,316,Dharchula,49144,Tham,"Tham,Dharchula,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,316,Dharchula,49145,Duti Bagad,"Duti Bagad,Dharchula,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,316,Dharchula,49146,Sobala R.F. (P-2),"Sobala R.F. (P-2),Dharchula,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,316,Dharchula,49147,Heera Gumari R.F. (P-2),"Heera Gumari R.F. (P-2),Dharchula,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,316,Dharchula,49146,Sobala R.F.,"Sobala R.F.,Dharchula,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,316,Dharchula,49147,Heera Gumari R.F.,"Heera Gumari R.F.,Dharchula,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,316,Dharchula,49148,Heera Gumari R.F.,"Heera Gumari R.F.,Dharchula,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,316,Dharchula,49149,Rungling R.F.,"Rungling R.F.,Dharchula,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,316,Dharchula,49150,Juntigar R.F.,"Juntigar R.F.,Dharchula,Pithoragarh,Uttarakhand,India"
@@ -10355,7 +10351,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,317,Didihat,49525,Sirtham R.F.,"Sirtham R.F.,Didihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,317,Didihat,49526,Bhaisyudi Sandev R.F.,"Bhaisyudi Sandev R.F.,Didihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,317,Didihat,49527,Haniya R.F.,"Haniya R.F.,Didihat,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,317,Didihat,49528,"Ogla,Jorasi(Lodi) R.F.","Ogla,Jorasi(Lodi) R.F.,Didihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,317,Didihat,49528,"Ogla,Jorasi","Ogla,Jorasi,Didihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,317,Didihat,49529,Kamtoli R.F.,"Kamtoli R.F.,Didihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,317,Didihat,49530,Dhwaj R.F.,"Dhwaj R.F.,Didihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,0,Berinag,"Berinag,Berinag,Pithoragarh,Uttarakhand,India"
@@ -10386,7 +10382,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,318,Berinag,49555,Bogar,"Bogar,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49556,Lachhima,"Lachhima,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49557,Gelthi Udiyar,"Gelthi Udiyar,Berinag,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,318,Berinag,49558,Madoli ,"Madoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49558,Madoli,"Madoli,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49559,Uri Sirtoli,"Uri Sirtoli,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49560,Chilkiya,"Chilkiya,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49561,Ukharani,"Ukharani,Berinag,Pithoragarh,Uttarakhand,India"
@@ -10394,7 +10390,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,318,Berinag,49563,Garsyari,"Garsyari,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49564,Pakhu Sera,"Pakhu Sera,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49565,Jabuka,"Jabuka,Berinag,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,318,Berinag,49566,Tana Bairat ,"Tana Bairat,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49566,Tana Bairat,"Tana Bairat,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49567,Dadal,"Dadal,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49568,Tana Echalet,"Tana Echalet,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49569,Kotgari,"Kotgari,Berinag,Pithoragarh,Uttarakhand,India"
@@ -10498,7 +10494,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,318,Berinag,49667,Bora Sagar,"Bora Sagar,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49668,Sagar,"Sagar,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49669,Beri Nag,"Beri Nag,Berinag,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,318,Berinag,49670,Banoli ,"Banoli,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49670,Banoli,"Banoli,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49671,Dhol Kura,"Dhol Kura,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49672,Gadtir,"Gadtir,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49673,Pinari,"Pinari,Berinag,Pithoragarh,Uttarakhand,India"
@@ -10547,7 +10543,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,318,Berinag,49716,Khitauli,"Khitauli,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49717,Pungar Kholi,"Pungar Kholi,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49718,Bora Khet,"Bora Khet,Berinag,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,318,Berinag,49719, Tamoli Gwir ,"Tamoli Gwir,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49719,Tamoli Gwir,"Tamoli Gwir,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49720,Kwerali,"Kwerali,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49721,Patharari,"Patharari,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49722,Bana,"Bana,Berinag,Pithoragarh,Uttarakhand,India"
@@ -10650,7 +10646,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,318,Berinag,49819,Gadera Pant,"Gadera Pant,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49820,Gol,"Gol,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49821,Lejam,"Lejam,Berinag,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,318,Berinag,49822,Pankhu (Dhasauli)R.F.,"Pankhu (Dhasauli)R.F.,Berinag,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,318,Berinag,49822,Pankhu,"Pankhu,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49823,Kalinag R.F.,"Kalinag R.F.,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49824,Berinag   R.F.,"Berinag   R.F.,Berinag,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,318,Berinag,49825,Khamlekh R.F.,"Khamlekh R.F.,Berinag,Pithoragarh,Uttarakhand,India"
@@ -10857,11 +10853,11 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,319,Gangolihat,50025,Khatera,"Khatera,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50026,Lwechata Bhangra Khet,"Lwechata Bhangra Khet,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50027,Lwechatta Son,"Lwechatta Son,Gangolihat,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,319,Gangolihat,50028,Markhanuei(Bhatgaon),"Markhanuei(Bhatgaon),Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50028,Markhanuei,"Markhanuei,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50029,Hat,"Hat,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50030,Madhye Purana Dak Bangla,"Madhye Purana Dak Bangla,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50031,Mancote,"Mancote,Gangolihat,Pithoragarh,Uttarakhand,India"
-5,62,Pithoragarh,319,Gangolihat,50032,Rawal Gaon ,"Rawal Gaon,Gangolihat,Pithoragarh,Uttarakhand,India"
+5,62,Pithoragarh,319,Gangolihat,50032,Rawal Gaon,"Rawal Gaon,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50033,Tunar Suzi Bisodi,"Tunar Suzi Bisodi,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50034,Chitgal,"Chitgal,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50035,Jiwal,"Jiwal,Gangolihat,Pithoragarh,Uttarakhand,India"
@@ -11000,8 +10996,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,319,Gangolihat,50168,Paudhar R.F.,"Paudhar R.F.,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,319,Gangolihat,50169,Dhura R.F.,"Dhura R.F.,Gangolihat,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",0,"Pithoragarh
-","Pithoragarh,Pithoragarh,Pithoragarh,Uttarakhand,India"
+",0,Pithoragarh,"Pithoragarh,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50170,Malli Seem,"Malli Seem,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11009,7 +11004,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50172,Bangwari Tingarh,"Bangwari Tingarh,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50173,Bichkot (Bhanar),"Bichkot (Bhanar),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50173,Bichkot,"Bichkot,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50174,Diyuri,"Diyuri,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11053,7 +11048,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50194,Rodi Madhye Simkhal,"Rodi Madhye Simkhal,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50195,Hareti (Dugri),"Hareti (Dugri),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50195,Hareti,"Hareti,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50196,Satgal,"Satgal,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11101,13 +11096,13 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50218,Ratwali,"Ratwali,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50219,Majhera (Samola),"Majhera (Samola),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50219,Majhera,"Majhera,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50220,Nakote,"Nakote,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50221,Mission Chandak,"Mission Chandak,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50222,Bajeti (Anshik),"Bajeti (Anshik),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50222,Bajeti,"Bajeti,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50223,Gaithana,"Gaithana,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11189,7 +11184,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50262,Paun,"Paun,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50263,Banauli Bhat(Badoli),"Banauli Bhat(Badoli),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50263,Banauli Bhat,"Banauli Bhat,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50264,Rawal Gaon,"Rawal Gaon,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11207,7 +11202,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50271,Darim Khola,"Darim Khola,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50272,Aicholi(Anshik),"Aicholi(Anshik),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50272,Aicholi,"Aicholi,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50273,Kiri Gaon,"Kiri Gaon,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11367,7 +11362,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50351,Marh,"Marh,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50352,Jivi(May Gooth),"Jivi(May Gooth),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50352,Jivi,"Jivi,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50353,Urga,"Urga,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11387,7 +11382,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50361,Gangaseri,"Gangaseri,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50362,Mehra Sera ,"Mehra Sera,Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50362,Mehra Sera,"Mehra Sera,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50363,Bhantar,"Bhantar,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11677,7 +11672,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50506,Kalaban,"Kalaban,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50507,Haldu(Soniya),"Haldu(Soniya),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50507,Haldu,"Haldu,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50508,Lunthura,"Lunthura,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -11685,7 +11680,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,62,Pithoragarh,320,"Pithoragarh
 ",50510,Chandak R.F.,"Chandak R.F.,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
-",50511,Chandak R.F. (P-2),"Chandak R.F. (P-2),Pithoragarh,Pithoragarh,Uttarakhand,India"
+",50511,Chandak R.F.,"Chandak R.F.,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
 ",50512,Bansnakote R.F.,"Bansnakote R.F.,Pithoragarh,Pithoragarh,Uttarakhand,India"
 5,62,Pithoragarh,320,"Pithoragarh
@@ -12028,16 +12023,15 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,322,Kanda,50843,Chantola,"Chantola,Kanda,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,322,Kanda,50844,Dhap No.2,"Dhap No.2,Kanda,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,322,Kanda,50845,Dharamgarh Range,"Dharamgarh Range,Kanda,Bageshwar,Uttarakhand,India"
-5,63,Bageshwar,322,Kanda,50846,Kunara (Kanda),"Kunara (Kanda),Kanda,Bageshwar,Uttarakhand,India"
-5,63,Bageshwar,322,Kanda,50847,Kunara (Kanda),"Kunara (Kanda),Kanda,Bageshwar,Uttarakhand,India"
-5,63,Bageshwar,322,Kanda,50848,Kunara (Kanda),"Kunara (Kanda),Kanda,Bageshwar,Uttarakhand,India"
-5,63,Bageshwar,322,Kanda,50849,Kunara (Kanda),"Kunara (Kanda),Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50846,Kunara,"Kunara,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50847,Kunara,"Kunara,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50848,Kunara,"Kunara,Kanda,Bageshwar,Uttarakhand,India"
+5,63,Bageshwar,322,Kanda,50849,Kunara,"Kunara,Kanda,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,322,Kanda,50850,Dhanigaon,"Dhanigaon,Kanda,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,322,Kanda,50851,Digoli,"Digoli,Kanda,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,322,Kanda,50852,Sinayal,"Sinayal,Kanda,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",0,"Bageshwar
-","Bageshwar,Bageshwar,Bageshwar,Uttarakhand,India"
+",0,Bageshwar,"Bageshwar,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",50853,Bisha Jajari,"Bisha Jajari,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12065,7 +12059,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",50865,Akhoriya Gar,"Akhoriya Gar,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",50866,Dayali ,"Dayali,Bageshwar,Bageshwar,Uttarakhand,India"
+",50866,Dayali,"Dayali,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",50867,Kuroli,"Kuroli,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12093,7 +12087,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",50879,Wafilagaon Malla,"Wafilagaon Malla,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",50880,Kirai Chak Dhamigaon ,"Kirai Chak Dhamigaon,Bageshwar,Bageshwar,Uttarakhand,India"
+",50880,Kirai Chak Dhamigaon,"Kirai Chak Dhamigaon,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",50881,Pachar,"Pachar,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12319,7 +12313,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",50992,Kathmaliya,"Kathmaliya,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",50993,Musyoli  May Chak ,"Musyoli  May Chak,Bageshwar,Bageshwar,Uttarakhand,India"
+",50993,Musyoli  May Chak,"Musyoli  May Chak,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",50994,Simkhet Chak Gai,"Simkhet Chak Gai,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12355,7 +12349,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",51010,Jaltha Kot,"Jaltha Kot,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",51011,Baitoli  Mai chak ,"Baitoli  Mai chak,Bageshwar,Bageshwar,Uttarakhand,India"
+",51011,Baitoli  Mai chak,"Baitoli  Mai chak,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",51012,Chauni,"Chauni,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12507,7 +12501,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",51086,Bahali,"Bahali,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",51087,Kakrat adhela (Dofar Lagga kakrta),"Kakrat adhela (Dofar Lagga kakrta),Bageshwar,Bageshwar,Uttarakhand,India"
+",51087,Kakrat adhela,"Kakrat adhela,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",51088,Majbe,"Majbe,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12559,7 +12553,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",51112,Aksora,"Aksora,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",51113,Kulauri ,"Kulauri,Bageshwar,Bageshwar,Uttarakhand,India"
+",51113,Kulauri,"Kulauri,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",51114,Salet,"Salet,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12655,7 +12649,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",51160,Jainkras,"Jainkras,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",51161,Karala Palari ,"Karala Palari,Bageshwar,Bageshwar,Uttarakhand,India"
+",51161,Karala Palari,"Karala Palari,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",51162,Janauti Palri,"Janauti Palri,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12843,7 +12837,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",51254,Arara,"Arara,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",51255,Kavata (Sanivdyar),"Kavata (Sanivdyar),Bageshwar,Bageshwar,Uttarakhand,India"
+",51255,Kavata,"Kavata,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",51256,Mndalsera,"Mndalsera,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
@@ -12863,7 +12857,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,323,"Bageshwar
 ",51264,Kansyari,"Kansyari,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
-",51265,Ason (P-2),"Ason (P-2),Bageshwar,Bageshwar,Uttarakhand,India"
+",51265,Ason,"Ason,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,323,"Bageshwar
 ",51266,Ason,"Ason,Bageshwar,Bageshwar,Uttarakhand,India"
 5,63,Bageshwar,324,Garud,0,Garud,"Garud,Garud,Bageshwar,Uttarakhand,India"
@@ -13066,8 +13060,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,63,Bageshwar,324,Garud,51463,Jakhera,"Jakhera,Garud,Bageshwar,Uttarakhand,India"
 5,64,"Almora
 ",0,"Almora
-",0,"Almora
-","Almora,Almora,Almora,Uttarakhand,India"
+",0,Almora,"Almora,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",325,BHIKIYASAIN,0,Bhikiasain,"Bhikiasain,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -13283,13 +13276,13 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",325,BHIKIYASAIN,51569,Sera,"Sera,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
-",325,BHIKIYASAIN,51570,Hansa Bhanariya ,"Hansa Bhanariya,BHIKIYASAIN,Almora,Uttarakhand,India"
+",325,BHIKIYASAIN,51570,Hansa Bhanariya,"Hansa Bhanariya,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
 ",325,BHIKIYASAIN,51571,Gwaligaon Talli Malli,"Gwaligaon Talli Malli,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
 ",325,BHIKIYASAIN,51572,Kelani,"Kelani,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
-",325,BHIKIYASAIN,51573,Khadaku Bhanriya ,"Khadaku Bhanriya,BHIKIYASAIN,Almora,Uttarakhand,India"
+",325,BHIKIYASAIN,51573,Khadaku Bhanriya,"Khadaku Bhanriya,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
 ",325,BHIKIYASAIN,51574,Chanoli Talli Malli,"Chanoli Talli Malli,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -13661,7 +13654,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",325,BHIKIYASAIN,51758,Dumana,"Dumana,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
-",325,BHIKIYASAIN,51759,Hauli ,"Hauli,BHIKIYASAIN,Almora,Uttarakhand,India"
+",325,BHIKIYASAIN,51759,Hauli,"Hauli,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
 ",325,BHIKIYASAIN,51760,Bahnoli,"Bahnoli,BHIKIYASAIN,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14089,7 +14082,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",326,Chaukhutiya,51971,Surna Rikhari Talli,"Surna Rikhari Talli,Chaukhutiya,Almora,Uttarakhand,India"
 5,64,"Almora
-",326,Chaukhutiya,51972,Chani ,"Chani,Chaukhutiya,Almora,Uttarakhand,India"
+",326,Chaukhutiya,51972,Chani,"Chani,Chaukhutiya,Almora,Uttarakhand,India"
 5,64,"Almora
 ",326,Chaukhutiya,51973,Bagwali Khet,"Bagwali Khet,Chaukhutiya,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14185,7 +14178,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",326,Chaukhutiya,52019,Agar,"Agar,Chaukhutiya,Almora,Uttarakhand,India"
 5,64,"Almora
-",326,Chaukhutiya,52020,Darhamar ,"Darhamar,Chaukhutiya,Almora,Uttarakhand,India"
+",326,Chaukhutiya,52020,Darhamar,"Darhamar,Chaukhutiya,Almora,Uttarakhand,India"
 5,64,"Almora
 ",326,Chaukhutiya,52021,Mahal chaura,"Mahal chaura,Chaukhutiya,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14499,9 +14492,9 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",327,Sult,52175,Singro,"Singro,Sult,Almora,Uttarakhand,India"
 5,64,"Almora
-",327,Sult,52176,Pokhari Talli ,"Pokhari Talli,Sult,Almora,Uttarakhand,India"
+",327,Sult,52176,Pokhari Talli,"Pokhari Talli,Sult,Almora,Uttarakhand,India"
 5,64,"Almora
-",327,Sult,52177,Pokhari Malli ,"Pokhari Malli,Sult,Almora,Uttarakhand,India"
+",327,Sult,52177,Pokhari Malli,"Pokhari Malli,Sult,Almora,Uttarakhand,India"
 5,64,"Almora
 ",327,Sult,52178,Manral Tanaula,"Manral Tanaula,Sult,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14735,7 +14728,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52292,Jarga,"Jarga,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52293,Jana ,"Jana,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52293,Jana,"Jana,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52294,Banoliya,"Banoliya,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14747,7 +14740,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52298,Turkaura,"Turkaura,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52299,Dida ,"Dida,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52299,Dida,"Dida,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52300,Machaliya,"Machaliya,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14763,7 +14756,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52306,Uroli,"Uroli,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52307,Bhatuliya ,"Bhatuliya,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52307,Bhatuliya,"Bhatuliya,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52308,Manbajouna,"Manbajouna,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14773,7 +14766,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52311,Bhaisoli,"Bhaisoli,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52312,Simoli ,"Simoli,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52312,Simoli,"Simoli,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52313,Naugaon,"Naugaon,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -14917,7 +14910,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52383,Bhagina,"Bhagina,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52384,Mahariya Chamdoli ,"Mahariya Chamdoli,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52384,Mahariya Chamdoli,"Mahariya Chamdoli,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52385,Namala,"Namala,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -15055,7 +15048,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52452,Khali,"Khali,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52453, Seema Malla,"Seema Malla,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52453,Seema Malla,"Seema Malla,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52454,Kotara,"Kotara,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -15075,7 +15068,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52462,Kuriya Matela,"Kuriya Matela,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52463,Seem Talla ,"Seem Talla,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52463,Seem Talla,"Seem Talla,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52464,Nawali,"Nawali,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -15137,7 +15130,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52493,Bishal Kote,"Bishal Kote,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52494,Meyon Malla ,"Meyon Malla,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52494,Meyon Malla,"Meyon Malla,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52495,Billekh,"Billekh,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -15151,7 +15144,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",328,Ranikhet,52500,Khirurhi,"Khirurhi,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
-",328,Ranikhet,52501,Meyon Talla ,"Meyon Talla,Ranikhet,Almora,Uttarakhand,India"
+",328,Ranikhet,52501,Meyon Talla,"Meyon Talla,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",328,Ranikhet,52502,Musoli,"Musoli,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -15302,8 +15295,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 ",328,Ranikhet,52575,Almora Range,"Almora Range,Ranikhet,Almora,Uttarakhand,India"
 5,64,"Almora
 ",329,"Dwarahat
-",0,"Dwarahat
-","Dwarahat,Dwarahat,Almora,Uttarakhand,India"
+",0,Dwarahat,"Dwarahat,Dwarahat,Almora,Uttarakhand,India"
 5,64,"Almora
 ",329,"Dwarahat
 ",52576,Nai Khola,"Nai Khola,Dwarahat,Almora,Uttarakhand,India"
@@ -15507,7 +15499,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 ",52642,Dairi,"Dairi,Dwarahat,Almora,Uttarakhand,India"
 5,64,"Almora
 ",329,"Dwarahat
-",52643,Pujakhet(Hat Anshik),"Pujakhet(Hat Anshik),Dwarahat,Almora,Uttarakhand,India"
+",52643,Pujakhet,"Pujakhet,Dwarahat,Almora,Uttarakhand,India"
 5,64,"Almora
 ",329,"Dwarahat
 ",52644,Ratkhal,"Ratkhal,Dwarahat,Almora,Uttarakhand,India"
@@ -15966,8 +15958,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 ",52795,Dwarahat Range,"Dwarahat Range,Dwarahat,Almora,Uttarakhand,India"
 5,64,"Almora
 ",330,"Almora
-",0,"Almora
-","Almora,Almora,Almora,Uttarakhand,India"
+",0,Almora,"Almora,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",330,"Almora
 ",52796,Batuliya,"Batuliya,Almora,Almora,Uttarakhand,India"
@@ -16030,7 +16021,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 ",52815,Dotiyal Gaon,"Dotiyal Gaon,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",330,"Almora
-",52816,Harkhola Jagshwar(Mahar Kholi),"Harkhola Jagshwar(Mahar Kholi),Almora,Almora,Uttarakhand,India"
+",52816,Harkhola Jagshwar,"Harkhola Jagshwar,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",330,"Almora
 ",52817,Nai Dhaul,"Nai Dhaul,Almora,Almora,Uttarakhand,India"
@@ -17161,7 +17152,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 ",53192,Aicholi,"Aicholi,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",330,"Almora
-",53193,Dhura(Joshi Dhura),"Dhura(Joshi Dhura),Almora,Almora,Uttarakhand,India"
+",53193,Dhura,"Dhura,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",330,"Almora
 ",53194,Jalna,"Jalna,Almora,Almora,Uttarakhand,India"
@@ -17332,7 +17323,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 ",53249,North Gola Range,"North Gola Range,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",330,"Almora
-",53250,Khatyari (CT),"Khatyari (CT),Almora,Almora,Uttarakhand,India"
+",53250,Khatyari,"Khatyari,Almora,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,0,Someshwar,"Someshwar,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17376,7 +17367,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53270,Barseela,"Barseela,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53271,Naraula bagar ,"Naraula bagar,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53271,Naraula bagar,"Naraula bagar,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53272,Ubholi,"Ubholi,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17396,7 +17387,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53280,Rasyara Gaon,"Rasyara Gaon,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53281,Dhumargaon ,"Dhumargaon,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53281,Dhumargaon,"Dhumargaon,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53282,Bhanar,"Bhanar,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17438,7 +17429,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53301,Kwarali,"Kwarali,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53302,Salauj ,"Salauj,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53302,Salauj,"Salauj,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53303,Balota,"Balota,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17450,7 +17441,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53307,Chanoli,"Chanoli,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53308,Chota Chin ,"Chota Chin,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53308,Chota Chin,"Chota Chin,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53309,Falta,"Falta,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17476,9 +17467,9 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53320,Golane,"Golane,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53321,Khari Sunar ,"Khari Sunar,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53321,Khari Sunar,"Khari Sunar,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53322, Bhana Rath,"Bhana Rath,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53322,Bhana Rath,"Bhana Rath,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53323,Palyura,"Palyura,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17512,7 +17503,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53338,Sunari,"Sunari,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53339,Hatura Gunth ,"Hatura Gunth,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53339,Hatura Gunth,"Hatura Gunth,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53340,Majehra Mafi,"Majehra Mafi,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17542,9 +17533,9 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53353,Lachham Pur,"Lachham Pur,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53354,Kharikhet ,"Kharikhet,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53354,Kharikhet,"Kharikhet,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53355,Nirai ,"Nirai,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53355,Nirai,"Nirai,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53356,Simkhola,"Simkhola,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17576,7 +17567,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53370,Bajel,"Bajel,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53371,Bhatgar ,"Bhatgar,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53371,Bhatgar,"Bhatgar,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53372,Maigari,"Maigari,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17596,7 +17587,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",331,Someshwar,53380,Sakania Kote,"Sakania Kote,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
-",331,Someshwar,53381,Pitharar ,"Pitharar,Someshwar,Almora,Uttarakhand,India"
+",331,Someshwar,53381,Pitharar,"Pitharar,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
 ",331,Someshwar,53382,Wadyura,"Wadyura,Someshwar,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17684,7 +17675,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",332,Jainti,53423,More Patuyri,"More Patuyri,Jainti,Almora,Uttarakhand,India"
 5,64,"Almora
-",332,Jainti,53424,Kina ,"Kina,Jainti,Almora,Uttarakhand,India"
+",332,Jainti,53424,Kina,"Kina,Jainti,Almora,Uttarakhand,India"
 5,64,"Almora
 ",332,Jainti,53425,Talla Lamkot,"Talla Lamkot,Jainti,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -17782,9 +17773,9 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",332,Jainti,53472,Birar,"Birar,Jainti,Almora,Uttarakhand,India"
 5,64,"Almora
-",332,Jainti,53473,Malla Binaula ,"Malla Binaula,Jainti,Almora,Uttarakhand,India"
+",332,Jainti,53473,Malla Binaula,"Malla Binaula,Jainti,Almora,Uttarakhand,India"
 5,64,"Almora
-",332,Jainti,53474,Talla Binaula ,"Talla Binaula,Jainti,Almora,Uttarakhand,India"
+",332,Jainti,53474,Talla Binaula,"Talla Binaula,Jainti,Almora,Uttarakhand,India"
 5,64,"Almora
 ",332,Jainti,53475,Sugari,"Sugari,Jainti,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -18196,13 +18187,13 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",333,Bhanoli,53678,Pokhari,"Pokhari,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
-",333,Bhanoli,53679,Vara Baroli ,"Vara Baroli,Bhanoli,Almora,Uttarakhand,India"
+",333,Bhanoli,53679,Vara Baroli,"Vara Baroli,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
 ",333,Bhanoli,53680,Dunar,"Dunar,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
-",333,Bhanoli,53681,Lwtaladfora ,"Lwtaladfora,Bhanoli,Almora,Uttarakhand,India"
+",333,Bhanoli,53681,Lwtaladfora,"Lwtaladfora,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
-",333,Bhanoli,53682,Gudoli(Orhbaroli),"Gudoli(Orhbaroli),Bhanoli,Almora,Uttarakhand,India"
+",333,Bhanoli,53682,Gudoli,"Gudoli,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
 ",333,Bhanoli,53683,Kujeli,"Kujeli,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -18294,7 +18285,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",333,Bhanoli,53727,Kanari Gunth,"Kanari Gunth,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
-",333,Bhanoli,53728,Jigoli Toli ,"Jigoli Toli,Bhanoli,Almora,Uttarakhand,India"
+",333,Bhanoli,53728,Jigoli Toli,"Jigoli Toli,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
 ",333,Bhanoli,53729,Melta,"Melta,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -18320,7 +18311,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,64,"Almora
 ",333,Bhanoli,53740,Bhasori Lagga Sindhiya Khet,"Bhasori Lagga Sindhiya Khet,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
-",333,Bhanoli,53741,Anoli ,"Anoli,Bhanoli,Almora,Uttarakhand,India"
+",333,Bhanoli,53741,Anoli,"Anoli,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
 ",333,Bhanoli,53742,Sirgaon,"Sirgaon,Bhanoli,Almora,Uttarakhand,India"
 5,64,"Almora
@@ -18476,10 +18467,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,65,Champawat,334,Champawat,53880,Nayal,"Nayal,Champawat,Champawat,Uttarakhand,India"
 5,65,Champawat,334,Champawat,53881,Amaun,"Amaun,Champawat,Champawat,Uttarakhand,India"
 5,65,Champawat,334,Champawat,53882,Bajaun,"Bajaun,Champawat,Champawat,Uttarakhand,India"
-5,65,Champawat,334,Champawat,53883, kot Amori,"kot Amori,Champawat,Champawat,Uttarakhand,India"
+5,65,Champawat,334,Champawat,53883,kot Amori,"kot Amori,Champawat,Champawat,Uttarakhand,India"
 5,65,Champawat,334,Champawat,53884,Hiula,"Hiula,Champawat,Champawat,Uttarakhand,India"
 5,65,Champawat,334,Champawat,53885,Reetha,"Reetha,Champawat,Champawat,Uttarakhand,India"
-5,65,Champawat,334,Champawat,53886,Dayoli (Dhauli),"Dayoli (Dhauli),Champawat,Champawat,Uttarakhand,India"
+5,65,Champawat,334,Champawat,53886,Dayoli,"Dayoli,Champawat,Champawat,Uttarakhand,India"
 5,65,Champawat,334,Champawat,53887,Pachnai,"Pachnai,Champawat,Champawat,Uttarakhand,India"
 5,65,Champawat,334,Champawat,53888,Vaila,"Vaila,Champawat,Champawat,Uttarakhand,India"
 5,65,Champawat,334,Champawat,53889,Khatoli Talli,"Khatoli Talli,Champawat,Champawat,Uttarakhand,India"
@@ -18780,8 +18771,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,65,Champawat,336,Lohaghat,54182,Suri,"Suri,Lohaghat,Champawat,Uttarakhand,India"
 5,65,Champawat,336,Lohaghat,54183,Nigali Garh,"Nigali Garh,Lohaghat,Champawat,Uttarakhand,India"
 5,65,Champawat,336,Lohaghat,54184,Khola Sunar,"Khola Sunar,Lohaghat,Champawat,Uttarakhand,India"
-5,65,Champawat,336,Lohaghat,54185,Gurna (Nayaabad),"Gurna (Nayaabad),Lohaghat,Champawat,Uttarakhand,India"
-5,65,Champawat,336,Lohaghat,54186,Gurna (Santola),"Gurna (Santola),Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54185,Gurna,"Gurna,Lohaghat,Champawat,Uttarakhand,India"
+5,65,Champawat,336,Lohaghat,54186,Gurna,"Gurna,Lohaghat,Champawat,Uttarakhand,India"
 5,65,Champawat,336,Lohaghat,54187,Chhera,"Chhera,Lohaghat,Champawat,Uttarakhand,India"
 5,65,Champawat,336,Lohaghat,54188,Hichaura,"Hichaura,Lohaghat,Champawat,Uttarakhand,India"
 5,65,Champawat,336,Lohaghat,54189,Betta,"Betta,Lohaghat,Champawat,Uttarakhand,India"
@@ -19008,7 +18999,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,65,Champawat,337,Poornagiri,54409,Khairi Gaon/ Kharra Gunth,"Khairi Gaon/ Kharra Gunth,Poornagiri,Champawat,Uttarakhand,India"
 5,65,Champawat,337,Poornagiri,54410,Kailigunth Shri Poornagiri/ Poorangiri Mafi,"Kailigunth Shri Poornagiri/ Poorangiri Mafi,Poornagiri,Champawat,Uttarakhand,India"
 5,65,Champawat,337,Poornagiri,54411,Kalsuniya,"Kalsuniya,Poornagiri,Champawat,Uttarakhand,India"
-5,65,Champawat,337,Poornagiri,54412,Gangseer ,"Gangseer,Poornagiri,Champawat,Uttarakhand,India"
+5,65,Champawat,337,Poornagiri,54412,Gangseer,"Gangseer,Poornagiri,Champawat,Uttarakhand,India"
 5,65,Champawat,337,Poornagiri,54413,Baman Jaol,"Baman Jaol,Poornagiri,Champawat,Uttarakhand,India"
 5,65,Champawat,337,Poornagiri,54414,Chaura Kot,"Chaura Kot,Poornagiri,Champawat,Uttarakhand,India"
 5,65,Champawat,337,Poornagiri,54415,Bayala,"Bayala,Poornagiri,Champawat,Uttarakhand,India"
@@ -19067,7 +19058,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,65,Champawat,337,Poornagiri,54468,Boom Range,"Boom Range,Poornagiri,Champawat,Uttarakhand,India"
 5,65,Champawat,337,Poornagiri,54469,Khatima Range,"Khatima Range,Poornagiri,Champawat,Uttarakhand,India"
 5,65,Champawat,337,Poornagiri,54470,Banbasa Canal Range,"Banbasa Canal Range,Poornagiri,Champawat,Uttarakhand,India"
-5,65,Champawat,337,Poornagiri,54471,Banbasa (CT),"Banbasa (CT),Poornagiri,Champawat,Uttarakhand,India"
+5,65,Champawat,337,Poornagiri,54471,Banbasa,"Banbasa,Poornagiri,Champawat,Uttarakhand,India"
 5,66,Nainital,0,Nainital,0,Nainital,"Nainital,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,0,Kosya Kutauli,"Kosya Kutauli,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54472,Lagga naini Chauk,"Lagga naini Chauk,Kosya Kutauli,Nainital,Uttarakhand,India"
@@ -19086,7 +19077,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,338,Kosya Kutauli,54485,Sakdyani,"Sakdyani,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54486,Badarkote,"Badarkote,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54487,Talla Kote,"Talla Kote,Kosya Kutauli,Nainital,Uttarakhand,India"
-5,66,Nainital,338,Kosya Kutauli,54488,Dhaniakote ,"Dhaniakote,Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54488,Dhaniakote,"Dhaniakote,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54489,Majhera,"Majhera,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54490,Nauna,"Nauna,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54491,Doba,"Doba,Kosya Kutauli,Nainital,Uttarakhand,India"
@@ -19121,7 +19112,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,338,Kosya Kutauli,54520,Josiya Ghuna,"Josiya Ghuna,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54521,Hartapa,"Hartapa,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54522,Hali,"Hali,Kosya Kutauli,Nainital,Uttarakhand,India"
-5,66,Nainital,338,Kosya Kutauli,54523,Hari Nagar Thuwa Block ,"Hari Nagar Thuwa Block,Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54523,Hari Nagar Thuwa Block,"Hari Nagar Thuwa Block,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54524,Harinagar Hartola Block,"Harinagar Hartola Block,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54525,Niglat Talla,"Niglat Talla,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54526,Padli,"Padli,Kosya Kutauli,Nainital,Uttarakhand,India"
@@ -19193,7 +19184,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,338,Kosya Kutauli,54592,Sinoli Talli,"Sinoli Talli,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54593,North Gola Range,"North Gola Range,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54594,Naina Range,"Naina Range,Kosya Kutauli,Nainital,Uttarakhand,India"
-5,66,Nainital,338,Kosya Kutauli,54595,Bhowali Range (P-2),"Bhowali Range (P-2),Kosya Kutauli,Nainital,Uttarakhand,India"
+5,66,Nainital,338,Kosya Kutauli,54595,Bhowali Range,"Bhowali Range,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54596,Bhowali Range,"Bhowali Range,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,338,Kosya Kutauli,54597,North Gola Range,"North Gola Range,Kosya Kutauli,Nainital,Uttarakhand,India"
 5,66,Nainital,339,Betalghat,0,Betalghat,"Betalghat,Betalghat,Nainital,Uttarakhand,India"
@@ -19315,7 +19306,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,340,Nainital,54712,Baluti,"Baluti,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54713,Taliya,"Taliya,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54714,Pande Gaon,"Pande Gaon,Nainital,Nainital,Uttarakhand,India"
-5,66,Nainital,340,Nainital,54715,Chak Devanand ,"Chak Devanand,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54715,Chak Devanand,"Chak Devanand,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54716,Ghiya Dali,"Ghiya Dali,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54717,Negi Gaon,"Negi Gaon,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54718,Gajaari,"Gajaari,Nainital,Nainital,Uttarakhand,India"
@@ -19388,7 +19379,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,340,Nainital,54785,Chay Bagicha,"Chay Bagicha,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54786,Umagarh,"Umagarh,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54787,Kuleti,"Kuleti,Nainital,Nainital,Uttarakhand,India"
-5,66,Nainital,340,Nainital,54788, Jajar,"Jajar,Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54788,Jajar,"Jajar,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54789,Chafi,"Chafi,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54790,Koon,"Koon,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54791,Shyamkhet,"Shyamkhet,Nainital,Nainital,Uttarakhand,India"
@@ -19508,21 +19499,21 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,340,Nainital,54905,Naina Range,"Naina Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54906,North Gola Range,"North Gola Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54907,Bhowali Range,"Bhowali Range,Nainital,Nainital,Uttarakhand,India"
-5,66,Nainital,340,Nainital,54908,North Gola Range (P-2),"North Gola Range (P-2),Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54908,North Gola Range,"North Gola Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54909,Smanora Range,"Smanora Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54910,Naina Range,"Naina Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54911,Kala Dhungi Range,"Kala Dhungi Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54912,Smanora Range,"Smanora Range,Nainital,Nainital,Uttarakhand,India"
-5,66,Nainital,340,Nainital,54913,Fatehpur Range (P-2),"Fatehpur Range (P-2),Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54913,Fatehpur Range,"Fatehpur Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54914,Smanora Range,"Smanora Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54915,Bhowali Range,"Bhowali Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54916,Bhowali Range,"Bhowali Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54917,Bhowali Range,"Bhowali Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54918,Smanora Range,"Smanora Range,Nainital,Nainital,Uttarakhand,India"
-5,66,Nainital,340,Nainital,54919,Chhakhata Range (P-2),"Chhakhata Range (P-2),Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54919,Chhakhata Range,"Chhakhata Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54920,Chhakhata Range,"Chhakhata Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,340,Nainital,54921,Barain Range,"Barain Range,Nainital,Nainital,Uttarakhand,India"
-5,66,Nainital,340,Nainital,54922,Fatehpur Range (P-3),"Fatehpur Range (P-3),Nainital,Nainital,Uttarakhand,India"
+5,66,Nainital,340,Nainital,54922,Fatehpur Range,"Fatehpur Range,Nainital,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,0,Dhari,"Dhari,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54923,Kokil Bana,"Kokil Bana,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54924,Bana,"Bana,Dhari,Nainital,Uttarakhand,India"
@@ -19563,8 +19554,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,341,Dhari,54959,Majuli,"Majuli,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54960,Mahatolliya Gaon,"Mahatolliya Gaon,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54961,Nadgal,"Nadgal,Dhari,Nainital,Uttarakhand,India"
-5,66,Nainital,341,Dhari,54962,Deeni Mallee ,"Deeni Mallee,Dhari,Nainital,Uttarakhand,India"
-5,66,Nainital,341,Dhari,54963,Deeni Tallee ,"Deeni Tallee,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,54962,Deeni Mallee,"Deeni Mallee,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,54963,Deeni Tallee,"Deeni Tallee,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54964,Managhare Kham,"Managhare Kham,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54965,Amadau,"Amadau,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54966,Duduli,"Duduli,Dhari,Nainital,Uttarakhand,India"
@@ -19594,7 +19585,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,341,Dhari,54990,Bhonra,"Bhonra,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54991,Shelakhet,"Shelakhet,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54992,Gurnaguth,"Gurnaguth,Dhari,Nainital,Uttarakhand,India"
-5,66,Nainital,341,Dhari,54993, Bheti Diyar Kholi,"Bheti Diyar Kholi,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,54993,Bheti Diyar Kholi,"Bheti Diyar Kholi,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54994,Dalauz,"Dalauz,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54995,Jaodh,"Jaodh,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,54996,Semal Kanya,"Semal Kanya,Dhari,Nainital,Uttarakhand,India"
@@ -19644,7 +19635,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,341,Dhari,55040,Rikhakot,"Rikhakot,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55041,Khansyun,"Khansyun,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55042,Baron,"Baron,Dhari,Nainital,Uttarakhand,India"
-5,66,Nainital,341,Dhari,55043,Timber ,"Timber,Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,55043,Timber,"Timber,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55044,Chamoli,"Chamoli,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55045,Gargari Malli,"Gargari Malli,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55046,Kwarala,"Kwarala,Dhari,Nainital,Uttarakhand,India"
@@ -19677,7 +19668,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,341,Dhari,55073,Hatyari Taal,"Hatyari Taal,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55074,Aam,"Aam,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55075,Gauniyaraw,"Gauniyaraw,Dhari,Nainital,Uttarakhand,India"
-5,66,Nainital,341,Dhari,55076,South Gola  Range (P-2),"South Gola  Range (P-2),Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,55076,South Gola  Range,"South Gola  Range,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55077,South Gola  Range,"South Gola  Range,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55078,South Gola  Range,"South Gola  Range,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55079,South Gola  Range,"South Gola  Range,Dhari,Nainital,Uttarakhand,India"
@@ -19688,11 +19679,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,341,Dhari,55084,Sarda Range,"Sarda Range,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55085,South Gola  Range,"South Gola  Range,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55086,Barain Range,"Barain Range,Dhari,Nainital,Uttarakhand,India"
-5,66,Nainital,341,Dhari,55087,South Gola  Range (P-2),"South Gola  Range (P-2),Dhari,Nainital,Uttarakhand,India"
+5,66,Nainital,341,Dhari,55087,South Gola  Range,"South Gola  Range,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,341,Dhari,55088,Sarda Range,"Sarda Range,Dhari,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",0,"Haldwani
-","Haldwani,Haldwani,Nainital,Uttarakhand,India"
+",0,Haldwani,"Haldwani,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55089,Chausala,"Chausala,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
@@ -19820,19 +19810,19 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,342,"Haldwani
 ",55151,Bamori Malli,"Bamori Malli,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55151,Bamori Malli (OG) (Part),"Bamori Malli (OG) (Part),Haldwani,Nainital,Uttarakhand,India"
+",55151,Bamori Malli,"Bamori Malli,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55152,Damua Dhunga Kham,"Damua Dhunga Kham,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55153,Korta,"Korta,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55153,Korta (Chanmari Mohalla) (OG) (Part),"Korta (Chanmari Mohalla) (OG) (Part),Haldwani,Nainital,Uttarakhand,India"
+",55153,Korta,"Korta,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55154,Harigarh Dalipsingh,"Harigarh Dalipsingh,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55155,Bamori Tallikham,"Bamori Tallikham,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55155,Bamori Talli Kham (OG) (Part),"Bamori Talli Kham (OG) (Part),Haldwani,Nainital,Uttarakhand,India"
+",55155,Bamori Talli Kham,"Bamori Talli Kham,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55156,Harinagar,"Harinagar,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
@@ -20016,7 +20006,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,342,"Haldwani
 ",55246,Padampur Rekuni,"Padampur Rekuni,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55247,Bhagwatpur ,"Bhagwatpur,Haldwani,Nainital,Uttarakhand,India"
+",55247,Bhagwatpur,"Bhagwatpur,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55248,Udaipur Rekwal,"Udaipur Rekwal,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
@@ -20096,7 +20086,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,342,"Haldwani
 ",55286,Haldwani Range,"Haldwani Range,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55287,Chhakhata Range (P-2),"Chhakhata Range (P-2),Haldwani,Nainital,Uttarakhand,India"
+",55287,Chhakhata Range,"Chhakhata Range,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
 ",55288,Kisan Range,"Kisan Range,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
@@ -20108,27 +20098,27 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,66,Nainital,342,"Haldwani
 ",55292,Gola Range,"Gola Range,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55293,Fatehpur Range (Dhamua Dunga Area) (CT),"Fatehpur Range (Dhamua Dunga Area) (CT),Haldwani,Nainital,Uttarakhand,India"
+",55293,Fatehpur Range,"Fatehpur Range,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55294,Mukhani (CT),"Mukhani (CT),Haldwani,Nainital,Uttarakhand,India"
+",55294,Mukhani,"Mukhani,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55295,Haldwani Talli (CT),"Haldwani Talli (CT),Haldwani,Nainital,Uttarakhand,India"
+",55295,Haldwani Talli,"Haldwani Talli,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55296,Bithoria No.1 (OG),"Bithoria No.1 (OG),Haldwani,Nainital,Uttarakhand,India"
+",55296,Bithoria No.1,"Bithoria No.1,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55297,Damua Dhunga Bandobasti (OG),"Damua Dhunga Bandobasti (OG),Haldwani,Nainital,Uttarakhand,India"
+",55297,Damua Dhunga Bandobasti,"Damua Dhunga Bandobasti,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55298,Byura (OG),"Byura (OG),Haldwani,Nainital,Uttarakhand,India"
+",55298,Byura,"Byura,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55299,Kusum Khera  (OG),"Kusum Khera  (OG),Haldwani,Nainital,Uttarakhand,India"
+",55299,Kusum Khera,"Kusum Khera,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55300,Haripur Sukha (OG),"Haripur Sukha (OG),Haldwani,Nainital,Uttarakhand,India"
+",55300,Haripur Sukha,"Haripur Sukha,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55301,Manpur Uttar (OG),"Manpur Uttar (OG),Haldwani,Nainital,Uttarakhand,India"
+",55301,Manpur Uttar,"Manpur Uttar,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55302,Gaujajally Uttar (OG),"Gaujajally Uttar (OG),Haldwani,Nainital,Uttarakhand,India"
+",55302,Gaujajally Uttar,"Gaujajally Uttar,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,342,"Haldwani
-",55303,Bamori Talli Bandobasti (OG),"Bamori Talli Bandobasti (OG),Haldwani,Nainital,Uttarakhand,India"
+",55303,Bamori Talli Bandobasti,"Bamori Talli Bandobasti,Haldwani,Nainital,Uttarakhand,India"
 5,66,Nainital,343,Ramnagar,0,Ramnagar,"Ramnagar,Ramnagar,Nainital,Uttarakhand,India"
 5,66,Nainital,343,Ramnagar,55304,Lal Dhak Kham,"Lal Dhak Kham,Ramnagar,Nainital,Uttarakhand,India"
 5,66,Nainital,343,Ramnagar,55305,Lal Dhag Bandobasti,"Lal Dhag Bandobasti,Ramnagar,Nainital,Uttarakhand,India"
@@ -20527,7 +20517,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,346,Kashipur,55694,Barkheri,"Barkheri,Kashipur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,346,Kashipur,55695,Rajpura Rani,"Rajpura Rani,Kashipur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,346,Kashipur,55696,Dabhaura Aihatmali,"Dabhaura Aihatmali,Kashipur,Udham Singh Nagar,Uttarakhand,India"
-5,67,Udham Singh Nagar,346,Kashipur,55697,Kanchal Gosain (CT),"Kanchal Gosain (CT),Kashipur,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,346,Kashipur,55697,Kanchal Gosain,"Kanchal Gosain,Kashipur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,347,Jaspur,0,Jaspur,"Jaspur,Jaspur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,347,Jaspur,55698,Chak Rai Jawahar Singh,"Chak Rai Jawahar Singh,Jaspur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,347,Jaspur,55699,Angadpur,"Angadpur,Jaspur,Udham Singh Nagar,Uttarakhand,India"
@@ -20763,7 +20753,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,349,Kichha,55927,Mat Kota,"Mat Kota,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55928,Chhatarpur,"Chhatarpur,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55929,Kalyanpur,"Kalyanpur,Kichha,Udham Singh Nagar,Uttarakhand,India"
-5,67,Udham Singh Nagar,349,Kichha,55929,Rudrapur Sidkul (OG) (Part),"Rudrapur Sidkul (OG) (Part),Kichha,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,349,Kichha,55929,Rudrapur Sidkul,"Rudrapur Sidkul,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55930,Bhoora Rani,"Bhoora Rani,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55931,Danpur,"Danpur,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55932,Kolara,"Kolara,Kichha,Udham Singh Nagar,Uttarakhand,India"
@@ -20771,7 +20761,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,349,Kichha,55934,Simla Bahadur,"Simla Bahadur,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55935,Rudrapur,"Rudrapur,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55936,Rampura,"Rampura,Kichha,Udham Singh Nagar,Uttarakhand,India"
-5,67,Udham Singh Nagar,349,Kichha,55936,Rampura (OG) (Part),"Rampura (OG) (Part),Kichha,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,349,Kichha,55936,Rampura,"Rampura,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55937,Fajalpur Mahraula,"Fajalpur Mahraula,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55938,Phoolbag,"Phoolbag,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,55939,Fulsunga,"Fulsunga,Kichha,Udham Singh Nagar,Uttarakhand,India"
@@ -20850,9 +20840,9 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,349,Kichha,56012,Tanda Range,"Tanda Range,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,56013,Dauli Range,"Dauli Range,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,349,Kichha,56014,Barakoli Range,"Barakoli Range,Kichha,Udham Singh Nagar,Uttarakhand,India"
-5,67,Udham Singh Nagar,349,Kichha,56015,Nagla (CT),"Nagla (CT),Kichha,Udham Singh Nagar,Uttarakhand,India"
-5,67,Udham Singh Nagar,349,Kichha,56016,Bandiya (CT),"Bandiya (CT),Kichha,Udham Singh Nagar,Uttarakhand,India"
-5,67,Udham Singh Nagar,349,Kichha,56017,Jagatpura (OG),"Jagatpura (OG),Kichha,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,349,Kichha,56015,Nagla,"Nagla,Kichha,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,349,Kichha,56016,Bandiya,"Bandiya,Kichha,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,349,Kichha,56017,Jagatpura,"Jagatpura,Kichha,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,0,Gadarpur,"Gadarpur,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,56018,Rooppur,"Rooppur,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,56019,Khanpur Paschim,"Khanpur Paschim,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
@@ -20890,7 +20880,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,350,Gadarpur,56051,Gadarpur,"Gadarpur,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,56052,Daunkpuri,"Daunkpuri,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,56053,Mazrahasan,"Mazrahasan,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
-5,67,Udham Singh Nagar,350,Gadarpur,56054,Kuan Khera(kuee Khera),"Kuan Khera(kuee Khera),Gadarpur,Udham Singh Nagar,Uttarakhand,India"
+5,67,Udham Singh Nagar,350,Gadarpur,56054,Kuan Khera,"Kuan Khera,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,56055,Sekeniya,"Sekeniya,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,56056,Rajpura/ kutubpur,"Rajpura/ kutubpur,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,350,Gadarpur,56057,Lucknow,"Lucknow,Gadarpur,Udham Singh Nagar,Uttarakhand,India"
@@ -21056,8 +21046,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,351,Sitarganj,56216,Barkoli Range,"Barkoli Range,Sitarganj,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,351,Sitarganj,56217,South Jaula Sal Range,"South Jaula Sal Range,Sitarganj,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
-",0,"Khatima
-","Khatima,Khatima,Udham Singh Nagar,Uttarakhand,India"
+",0,Khatima,"Khatima,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
 ",56218,Diyan,"Diyan,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
@@ -21079,7 +21068,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,352,"Khatima
 ",56227,Khetal Sanda Mustnagar,"Khetal Sanda Mustnagar,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
-",56228,Bilheeri(Chakarpur),"Bilheeri(Chakarpur),Khatima,Udham Singh Nagar,Uttarakhand,India"
+",56228,Bilheeri,"Bilheeri,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
 ",56229,Bichpuri,"Bichpuri,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
@@ -21247,17 +21236,17 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,67,Udham Singh Nagar,352,"Khatima
 ",56311,Jhankaiya Range,"Jhankaiya Range,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
-",56312,Mohof Range (P-2),"Mohof Range (P-2),Khatima,Udham Singh Nagar,Uttarakhand,India"
+",56312,Mohof Range,"Mohof Range,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
 ",56313,Mohof Range,"Mohof Range,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
-",56314,North Jaula Sal Range (West Jubliganj beat),"North Jaula Sal Range (West Jubliganj beat),Khatima,Udham Singh Nagar,Uttarakhand,India"
+",56314,North Jaula Sal Range,"North Jaula Sal Range,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
-",56315,Sarda Range (East Jubliganj beat),"Sarda Range (East Jubliganj beat),Khatima,Udham Singh Nagar,Uttarakhand,India"
+",56315,Sarda Range,"Sarda Range,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
-",56316,Umru Khurd (CT),"Umru Khurd (CT),Khatima,Udham Singh Nagar,Uttarakhand,India"
+",56316,Umru Khurd,"Umru Khurd,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,67,Udham Singh Nagar,352,"Khatima
-",56317,Maholiya (CT),"Maholiya (CT),Khatima,Udham Singh Nagar,Uttarakhand,India"
+",56317,Maholiya,"Maholiya,Khatima,Udham Singh Nagar,Uttarakhand,India"
 5,68,Hardwar,0,Hardwar,0,Hardwar,"Hardwar,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,0,Roorkee,"Roorkee,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56318,Banjarewala Grunt,"Banjarewala Grunt,Roorkee,Hardwar,Uttarakhand,India"
@@ -21286,8 +21275,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56341,Khedi Shikohpur,"Khedi Shikohpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56342,Ahamadpur Khedi,"Ahamadpur Khedi,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56343,Patti Dada,"Patti Dada,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56344,Hasanpur Madanpur(A.H),"Hasanpur Madanpur(A.H),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56345,Hasanpur Madanpur(M),"Hasanpur Madanpur(M),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56344,Hasanpur Madanpur,"Hasanpur Madanpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56345,Hasanpur Madanpur,"Hasanpur Madanpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56346,Qazibans,"Qazibans,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56347,Mandawar,"Mandawar,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56348,Chauli Shahbuddin Pur,"Chauli Shahbuddin Pur,Roorkee,Hardwar,Uttarakhand,India"
@@ -21305,12 +21294,12 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56360,Ibrahimpur Masahi,"Ibrahimpur Masahi,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56361,Jhiryan Grunt,"Jhiryan Grunt,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56362,Nagal,"Nagal,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56363,Dariyapur Dayalpur(M),"Dariyapur Dayalpur(M),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56363,Dariyapur Dayalpur,"Dariyapur Dayalpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56364,Palooni,"Palooni,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56365,Habibpur Nawada,"Habibpur Nawada,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56366,Dheerm Mazra (M),"Dheerm Mazra (M),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56367,Dheer Mazra (A.H.),"Dheer Mazra (A.H.),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56368,Dayapur Dayalpur (A.H.),"Dayapur Dayalpur (A.H.),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56366,Dheerm Mazra,"Dheerm Mazra,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56367,Dheer Mazra,"Dheer Mazra,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56368,Dayapur Dayalpur,"Dayapur Dayalpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56369,Hakim Pur Turra,"Hakim Pur Turra,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56370,Kalal Hati,"Kalal Hati,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56371,Wahabpur Chaga Mazari,"Wahabpur Chaga Mazari,Roorkee,Hardwar,Uttarakhand,India"
@@ -21365,29 +21354,29 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56420,Mukarrabpur,"Mukarrabpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56421,Mehwarkalan,"Mehwarkalan,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56422,Mahmoodpur,"Mahmoodpur,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56423,Kot Kalyar Chak(I),"Kot Kalyar Chak(I),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56424,Kot Kalyar Chak(II),"Kot Kalyar Chak(II),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56425,Rahmatpur (M),"Rahmatpur (M),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56426,Rahmatpur (A.H),"Rahmatpur (A.H),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56427,Belra(M),"Belra(M),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56423,Kot Kalyar Chak,"Kot Kalyar Chak,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56424,Kot Kalyar Chak,"Kot Kalyar Chak,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56425,Rahmatpur,"Rahmatpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56426,Rahmatpur,"Rahmatpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56427,Belra,"Belra,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56428,Bajuheri,"Bajuheri,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56429,Belara (A.H),"Belara (A.H),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56429,Belara,"Belara,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56430,Sherpur,"Sherpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56431,Barampur,"Barampur,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56432,Kanhapur (A.H),"Kanhapur (A.H),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56433,Kanhapur (M),"Kanhapur (M),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56434,Akbarpur (Ah),"Akbarpur (Ah),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56432,Kanhapur,"Kanhapur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56433,Kanhapur,"Kanhapur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56434,Akbarpur,"Akbarpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56435,Kelanpur,"Kelanpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56436,Beldisalhapur,"Beldisalhapur,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56437,Sohalpur Mazara Belra(M),"Sohalpur Mazara Belra(M),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56437,Sohalpur Mazara Belra,"Sohalpur Mazara Belra,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56438,Mohammad Amirpur Urf Malhu Maj,"Mohammad Amirpur Urf Malhu Maj,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56439,Mohammad Amirpur Urf Malhumajr,"Mohammad Amirpur Urf Malhumajr,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56440,Bedpur,"Bedpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56441,Dhanauri,"Dhanauri,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56442,Kamalpur Saini Bas,"Kamalpur Saini Bas,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56443,Bichpadi,"Bichpadi,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56444,Bahadarpur Saini (Am),"Bahadarpur Saini (Am),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56445,Bahadarpur Saini (M),"Bahadarpur Saini (M),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56444,Bahadarpur Saini,"Bahadarpur Saini,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56445,Bahadarpur Saini,"Bahadarpur Saini,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56446,Daulatpur,"Daulatpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56447,Jamalpur,"Jamalpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56448,Mooldaspur Urf Majra,"Mooldaspur Urf Majra,Roorkee,Hardwar,Uttarakhand,India"
@@ -21442,15 +21431,15 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56497,Sahpur Salhapur,"Sahpur Salhapur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56498,Raheempur,"Raheempur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56499,"Paneyala,Chandapur","Paneyala,Chandapur,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56500, Abbulhasnpur,"Abbulhasnpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56500,Abbulhasnpur,"Abbulhasnpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56501,Alamaspur,"Alamaspur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56502,Rampur,"Rampur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56503,Malakpur Latifpur,"Malakpur Latifpur,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56504,Bangherimahabatpur (Ahat),"Bangherimahabatpur (Ahat),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56505,Jalalpur(Must),"Jalalpur(Must),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56506,Todakalyanpur(Must),"Todakalyanpur(Must),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56507,Jalalpur(Ahat),"Jalalpur(Ahat),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56508,Toda Kalyanpur(Ahat),"Toda Kalyanpur(Ahat),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56504,Bangherimahabatpur,"Bangherimahabatpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56505,Jalalpur,"Jalalpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56506,Todakalyanpur,"Todakalyanpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56507,Jalalpur,"Jalalpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56508,Toda Kalyanpur,"Toda Kalyanpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56509,Sheetal Pur,"Sheetal Pur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56510,Kotwal Alampur,"Kotwal Alampur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56511,Khanampur Kasauli,"Khanampur Kasauli,Roorkee,Hardwar,Uttarakhand,India"
@@ -21469,14 +21458,14 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56524,Bijhauli,"Bijhauli,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56525,Zabardast Pur,"Zabardast Pur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56526,Sundhari,"Sundhari,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56527,Bhainsarhedi(Must),"Bhainsarhedi(Must),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56527,Bhainsarhedi,"Bhainsarhedi,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56528,Khatki,"Khatki,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56529,Khatka(Mu),"Khatka(Mu),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56529,Khatka,"Khatka,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56530,Khatka All,"Khatka All,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56531,Uleheri,"Uleheri,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56532,Bhainsarhedi (Ahat),"Bhainsarhedi (Ahat),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56533,Zaurasi(Ahat),"Zaurasi(Ahat),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56534,Zaurasi (Must),"Zaurasi (Must),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56532,Bhainsarhedi,"Bhainsarhedi,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56533,Zaurasi,"Zaurasi,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56534,Zaurasi,"Zaurasi,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56535,Thithiki Qavadpur,"Thithiki Qavadpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56536,Gajraula,"Gajraula,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56537,Saidpura,"Saidpura,Roorkee,Hardwar,Uttarakhand,India"
@@ -21535,8 +21524,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56590,Peerpura,"Peerpura,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56591,Bhagwanpur Chandanpur,"Bhagwanpur Chandanpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56592,Shikarpur,"Shikarpur,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56593,Hazzarpur (Must),"Hazzarpur (Must),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56594,Hazzarpur (Ahat),"Hazzarpur (Ahat),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56593,Hazzarpur,"Hazzarpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56594,Hazzarpur,"Hazzarpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56595,Khempur,"Khempur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56596,Thathaula,"Thathaula,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56597,Rajpur Mustafabad Urf Gadharon,"Rajpur Mustafabad Urf Gadharon,Roorkee,Hardwar,Uttarakhand,India"
@@ -21550,10 +21539,10 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56605,Salarpur,"Salarpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56606,Tikaula Khurd,"Tikaula Khurd,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56607,Bukkanpur,"Bukkanpur,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56608,Abul Hasanpur Urf Ghisarpadi(M,"Abul Hasanpur Urf Ghisarpadi(M,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56609,Abul Hasanpur Urf Ghisarpadi(A,"Abul Hasanpur Urf Ghisarpadi(A,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56610,Mukeempur (Must),"Mukeempur (Must),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56611,Mukeempur (Ahat),"Mukeempur (Ahat),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56608,Abul Hasanpur Urf Ghisarpadi,"Abul Hasanpur Urf Ghisarpadi,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56609,Abul Hasanpur Urf Ghisarpadi,"Abul Hasanpur Urf Ghisarpadi,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56610,Mukeempur,"Mukeempur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56611,Mukeempur,"Mukeempur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56612,Nagala Cheena,"Nagala Cheena,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56613,Mundalana,"Mundalana,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56614,Aamkheri,"Aamkheri,Roorkee,Hardwar,Uttarakhand,India"
@@ -21569,19 +21558,19 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,353,Roorkee,56624,Kagwali,"Kagwali,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56625,Thoi,"Thoi,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,353,Roorkee,56626,Mohand Range,"Mohand Range,Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56627,Shahpur (CT),"Shahpur (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56628,Bhagwanpur (CT),"Bhagwanpur (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56629,Saidpura (CT),"Saidpura (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56630,Piran Kaliyar (CT),"Piran Kaliyar (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56631,Salempur Rajputan (CT),"Salempur Rajputan (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56632,Sunhaira (CT),"Sunhaira (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56633,Shafipur (CT),"Shafipur (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56634,Khanjarpur (CT),"Khanjarpur (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56635,Bangherimahabatpur (Must) (CT),"Bangherimahabatpur (Must) (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56636,Padali Gujar (CT),"Padali Gujar (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56637,Nagala Imarti (CT),"Nagala Imarti (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56638,Dhandera (CT),"Dhandera (CT),Roorkee,Hardwar,Uttarakhand,India"
-5,68,Hardwar,353,Roorkee,56639,Maohanpur Mohammadpur (CT),"Maohanpur Mohammadpur (CT),Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56627,Shahpur,"Shahpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56628,Bhagwanpur,"Bhagwanpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56629,Saidpura,"Saidpura,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56630,Piran Kaliyar,"Piran Kaliyar,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56631,Salempur Rajputan,"Salempur Rajputan,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56632,Sunhaira,"Sunhaira,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56633,Shafipur,"Shafipur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56634,Khanjarpur,"Khanjarpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56635,Bangherimahabatpur,"Bangherimahabatpur,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56636,Padali Gujar,"Padali Gujar,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56637,Nagala Imarti,"Nagala Imarti,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56638,Dhandera,"Dhandera,Roorkee,Hardwar,Uttarakhand,India"
+5,68,Hardwar,353,Roorkee,56639,Maohanpur Mohammadpur,"Maohanpur Mohammadpur,Roorkee,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,0,Hardwar,"Hardwar,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56640,Dadubans,"Dadubans,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56641,Kalubans,"Kalubans,Hardwar,Hardwar,Uttarakhand,India"
@@ -21609,7 +21598,7 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,354,Hardwar,56663,Puranpur Salhapur,"Puranpur Salhapur,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56664,Aneki Hetmapur,"Aneki Hetmapur,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56665,Salempur Mahdood,"Salempur Mahdood,Hardwar,Hardwar,Uttarakhand,India"
-5,68,Hardwar,354,Hardwar,56665,Hardwar SIDKUL (OG) (Part),"Hardwar SIDKUL (OG) (Part),Hardwar,Hardwar,Uttarakhand,India"
+5,68,Hardwar,354,Hardwar,56665,Hardwar SIDKUL,"Hardwar SIDKUL,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56666,Dadpur Govindpur,"Dadpur Govindpur,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56667,Mohd Alipur,"Mohd Alipur,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56668,Rajpur,"Rajpur,Hardwar,Hardwar,Uttarakhand,India"
@@ -21649,8 +21638,8 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,354,Hardwar,56702,Peetpur,"Peetpur,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56703,Sarai,"Sarai,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56704,Sitapur Mazara Jwalapur,"Sitapur Mazara Jwalapur,Hardwar,Hardwar,Uttarakhand,India"
-5,68,Hardwar,354,Hardwar,56704,Jwalapur Mahavidyalaya (OG) (Part),"Jwalapur Mahavidyalaya (OG) (Part),Hardwar,Hardwar,Uttarakhand,India"
-5,68,Hardwar,354,Hardwar,56705,Gurukul Kangdi (OG) (Part),"Gurukul Kangdi (OG) (Part),Hardwar,Hardwar,Uttarakhand,India"
+5,68,Hardwar,354,Hardwar,56704,Jwalapur Mahavidyalaya,"Jwalapur Mahavidyalaya,Hardwar,Hardwar,Uttarakhand,India"
+5,68,Hardwar,354,Hardwar,56705,Gurukul Kangdi,"Gurukul Kangdi,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56705,Jamalpur Kalan,"Jamalpur Kalan,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56706,Devpur Mustakam,"Devpur Mustakam,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56707,Devpur Ahatmal,"Devpur Ahatmal,Hardwar,Hardwar,Uttarakhand,India"
@@ -21723,12 +21712,11 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,354,Hardwar,56774,Ranipur Range,"Ranipur Range,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56775,Chandi Range,"Chandi Range,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,354,Hardwar,56776,Pathari Forest Range,"Pathari Forest Range,Hardwar,Hardwar,Uttarakhand,India"
-5,68,Hardwar,354,Hardwar,56777,Rawali Mahdood (CT),"Rawali Mahdood (CT),Hardwar,Hardwar,Uttarakhand,India"
-5,68,Hardwar,354,Hardwar,56778,Bahadarabad (CT),"Bahadarabad (CT),Hardwar,Hardwar,Uttarakhand,India"
-5,68,Hardwar,354,Hardwar,56779,Jagjeetpur (CT),"Jagjeetpur (CT),Hardwar,Hardwar,Uttarakhand,India"
+5,68,Hardwar,354,Hardwar,56777,Rawali Mahdood,"Rawali Mahdood,Hardwar,Hardwar,Uttarakhand,India"
+5,68,Hardwar,354,Hardwar,56778,Bahadarabad,"Bahadarabad,Hardwar,Hardwar,Uttarakhand,India"
+5,68,Hardwar,354,Hardwar,56779,Jagjeetpur,"Jagjeetpur,Hardwar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
-",0,"Laksar
-","Laksar,Laksar,Hardwar,Uttarakhand,India"
+",0,Laksar,"Laksar,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
 ",56780,Ladpur Kalan Must,"Ladpur Kalan Must,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
@@ -21906,13 +21894,13 @@ STCode,DTCode,DTName,SDTCode,SDTName,TVCode,Name,Address
 5,68,Hardwar,355,"Laksar
 ",56867,Mahrajpur Khurd,"Mahrajpur Khurd,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
-",56868,Gangdaspur(Must),"Gangdaspur(Must),Laksar,Hardwar,Uttarakhand,India"
+",56868,Gangdaspur,"Gangdaspur,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
-",56869,Gangdaspur(Aht),"Gangdaspur(Aht),Laksar,Hardwar,Uttarakhand,India"
+",56869,Gangdaspur,"Gangdaspur,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
-",56870,Shivpuri (Must),"Shivpuri (Must),Laksar,Hardwar,Uttarakhand,India"
+",56870,Shivpuri,"Shivpuri,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
-",56871,Shivpuri(Aht),"Shivpuri(Aht),Laksar,Hardwar,Uttarakhand,India"
+",56871,Shivpuri,"Shivpuri,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
 ",56872,Ospur,"Ospur,Laksar,Hardwar,Uttarakhand,India"
 5,68,Hardwar,355,"Laksar
