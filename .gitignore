@@ -107,3 +107,7 @@ ENV/
 ._*
 
 .vscode/
+
+reports/
+processed/
+auto_reports/

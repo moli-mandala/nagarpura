@@ -16,8 +16,11 @@ def prep_census_data(csvFilePath, stateName):
         address += str(row['Name']).strip() + "," + str(row['SDTName']).strip() + "," + str(row['DTName']).strip() + "," + stateName + "," + COUNTRY_NAME
         print(address)
         df.loc[index, 'Address'] = address
+         #new_name = str(row['Name']).split("(", 1)[0].strip()
+         #df.loc[index, 'Name'] = new_name
+    #df = df.drop(['Address'], axis=1)
     df.to_csv(csvFilePath, index=False)
-csvFilePath = r'raw/as.csv'
-stateName = "Assam"
+csvFilePath = r'raw/go.csv'
+stateName = "Goa"
 
 prep_census_data(csvFilePath, stateName)
