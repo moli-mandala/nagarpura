@@ -3,13 +3,7 @@ import numpy as np
 import os
 
 LIST_OF_STATE_CODES=["tn", "kl", "ka", "ap", "mh", "mp", "ch", "jk", "up", "bi", "gu", "ra", "wb", "uk", "ha", "od", "cd", "pud", "sik", "tri", "nag", "miz", "meg", "ma", "go", "del", "arp", "as", "pu", "jka", "hp"]
-#LIST_OF_STATE_CODES=["pu" ]
 
-#LIST_OF_FILTERS_ENDSWITH = ["palli", "vali", "valli", "oor", "ur", "ceri", "eri", "turai", "porai", "kadu", "malai", "mala", "pakkam", "kunru", "gund", "kund", "khond", "aru", "kanam", "nad", "seri", "sirai", "mani", "arai", "koli", "param", "halli", "vaadi", "vadi", "nigade", "kulam", "karanai", "kode", "kal", "karai", "vil", "bhil", "nadu", "pattanam", "talai", "gunda", "konda", "wali", "wari", "oli", "kere", "kuppa", "kuppam", "patti", "padi", "adka", "kote", "kudi", "kottai", "pattinam", "uru", "palle", "bali", "balli", "hatti", "halle", "pat", "pati", "gotti", "sarai" ]
-LIST_OF_FILTERS_ENDSWITH = ["kottai", "kotta", "kot", "kote", "kota", "got", "gote", "gotta", "Kottai", "Kotta", "Kot", "Kote", "Kota", "Got", "Gote", "Gotta", "koti", "kottam", "Koti", "kotla", "Kotla", "kudda", "kutta", "kuta", "gottai", "Gottai", "patti", "Patti", "hatti", "Hatti", "padu", "Padu", "bhatti", "Bhatti", "patte", "Patte", "karai", "Karai", "kulam", "palliru", "gudi", "koppa", "koppal", "Koppa", "kadu", "nad", "nadu", "padi", "Padi", "male", "Male", "gutta", "gudde", "Gutta", "kodu", "porai", "kare", "Kare", "kola", "Kola", "kona", "Kona", "kunda", "Kunda", "kunte", "Kunte", "konda", "Konda", "ur", "palli", "vali", "valli", "Halli", "Palli", "oor", "ur", "ceri", "eri", "turai", "porai", "kadu", "malai", "mala",  "pakkam", "kunru", "gund", "kund", "khond", "aru", "kanam", "nad", "seri", "sirai", "mani", "arai", "param", "halli", "Halli", "vaadi", "vadi", "karanai", "kode", "kal", "karai", "vil", "bhil", "nadu", "pattanam", "talai", "gunda", "konda", "kere", "kuppa", "kuppam", "patti", "padi", "adka", "kote", "kudi", "kottai", "pattinam", "uru", "palle", "bali", "balli", "halle", "pat", "pati", "gotti", "pali", "Pali", "Bali", "Vadi","oli", "uli" ]
-#LIST_OF_FILTERS_ENDSWITH = ["patti", "Patti", "hatti", "Hatti", "padu", "Padu", "bhatti", "Bhatti", "patte", "Patte"] 
-LIST_OF_FILTERS_STARTSWITH = [""]
-LIST_OF_FILTERS_CONTAINS = [""]
 consolidate_files = True
 
 DRAVIDIAN_SUFFIXES = {
